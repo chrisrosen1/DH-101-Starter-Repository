@@ -3,6 +3,7 @@
 ## The Artifact
 Describe or embed your artifact here.
 Include images, links, or media as appropriate.
+![Remix](https://github.com/user-attachments/assets/4aefa306-a109-490c-ab14-058c0ee1c7b6)
 
 ## Process Notes
 How did you make this?
