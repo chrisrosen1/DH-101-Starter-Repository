@@ -23,4 +23,22 @@ A central theme in this passage is uncertainty and trust. Jobs describes droppin
 The tone is reflective and honest. Jobs openly admits confusion, financial struggle, and doubt. This vulnerability strengthens his credibility (ethos). At the same time, he speaks from the position of a successful innovator, which reinforces his authority. This contrast makes the speech persuasive.
 Repetition also plays an important role. Words like “college,” “dropped,” and “trust” are repeated to emphasize the message. The calligraphy story serves as concrete evidence. It transforms an abstract lesson about intuition into a specific example that connects directly to the creation of the Macintosh.
 Overall, the speech persuades through narrative structure, metaphor, repetition, and emotional appeal.
+Attribution & AI Use Statement
+Text Used:
+ Steve Jobs, “Stanford Commencement Speech” (2005)
+Source:
+ Stanford University Commencement Address
+Tools Used:
+Voyant Tools (word frequency and trends visualization)
+
+
+ChatGPT (GPT-5) for literary and rhetorical analysis
+
+
+GPT Prompt Used:
+ “Provide a literary and rhetorical analysis of this section of Steve Jobs’ Stanford Commencement Speech. Focus on themes, tone, metaphor, and persuasive strategies.”
+What Voyant Could Not Do:
+ Voyant could show word frequency and patterns, but it could not interpret themes, tone, or metaphor.
+What GPT Could Not Do:
+ GPT could interpret meaning and rhetorical strategy, but it could not generate visual data like word clouds or measurable trend graphs.
 
