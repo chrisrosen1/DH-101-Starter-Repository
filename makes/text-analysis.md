@@ -42,3 +42,10 @@ What Voyant Could Not Do:
 What GPT Could Not Do:
  GPT could interpret meaning and rhetorical strategy, but it could not generate visual data like word clouds or measurable trend graphs.
 
+Reflection
+Using Voyant and GPT showed me that machines “read” texts in very different ways. When I used Voyant, it focused on word frequency and patterns. It showed me which words appeared the most, like “college,” “dropped,” and “trust.” The trends graph showed where certain words appeared more in the speech. This helped me see repetition and structure that I might not have noticed immediately. What we gain from this kind of reading is speed and pattern recognition. Voyant quickly turns the text into visual data.
+However, Voyant does not explain the meaning. It does not tell me why “trust” matters or what “connecting the dots” represents. It only shows that the words are there.
+GPT, on the other hand, reads the speech in a more interpretive way. It explains themes like uncertainty and hindsight. It identifies metaphor and tone. GPT imagines meaning as something connected and narrative-based. It treats the speech as a story with emotional impact.
+What we gain from GPT is explanation and organization. It quickly produces analysis that sounds like something from a literature class. What we lose, though, is the slower, more personal process of reading and thinking for ourselves. Machines can analyze patterns and generate interpretation, but they do not experience the text the way humans do.
+Voyant sees meaning as data. GPT sees meaning as interpretation.
+
