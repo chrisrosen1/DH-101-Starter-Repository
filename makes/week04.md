@@ -1,8 +1,7 @@
 # Week 4 – Comic & Storytelling
 
 ## The Artifact
-Describe or embed your artifact here.
-Include images, links, or media as appropriate.
+This comic explores who controls storytelling when AI helps generate narrative.Include images, links, or media as appropriate.
 
 ## Process Notes
 How did you make this?
