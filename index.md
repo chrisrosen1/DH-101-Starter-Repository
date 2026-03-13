@@ -12,11 +12,4 @@ Overall, these projects helped me think more carefully about how AI shapes the w
 - [Week 4 Comic](makes/week04.html)
  https://chrisrosen1.github.io/DH-101-Starter-Repository/makes/comic.html 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2e893c57-7e38-44b3-bc99-1353c272786b" />
-[Week 1](week1.md)
-- [Week 2](week2.md)
-- [Week 3](week3.md)
-- [Week 4](week4.md)
-- [Week 5](week5.md)
-- [Week 6](week6.md)
-- [Week 7](week7.md)
-- [Week 8](week8.md)
+(makes/week01.md)
