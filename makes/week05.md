@@ -10,9 +10,9 @@ continuously
 ![Remix](https://github.com/user-attachments/assets/4aefa306-a109-490c-ab14-058c0ee1c7b6)
 
 ## Process Notes
-How did you make this? 
-What tools did you use?
-What decisions did you make?
+How did you make this? I created the images using ChatGPT Image Generator by writing prompts for each frame of the GIF. The prompts generated images of a small white dog that increased in number across the frames. I then uploaded the images into Canva and arranged them in sequence to create a looping GIF.
+What tools did you use? I used ChatGPT Image Generator to create the images and Canva to arrange the frames, adjust the timing, and export the final GIF.
+What decisions did you make? I decided how many dogs would appear in each frame and how the repetition would grow from one dog to many. I also chose the minimalist style, the gray background, and the loop that resets back to one dog to emphasize repetition and remix culture.
 
 ## Reflection
 This GIF shows one small white dog that slowly multiplies until the screen is full of
