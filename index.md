@@ -15,6 +15,7 @@ Overall, these projects helped me think more carefully about how AI shapes the w
   
  [ Week 1 – Reverse Engineering](makes/week01.md)
  [Week 2](makes/week02.md)
+ [Week 2](makes/week02.md)
  [Week 3](makes/week03.md)
  [Week 4](makes/week04.md)
  [Week 5](makes/week05.md)
