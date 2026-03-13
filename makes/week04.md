@@ -1,7 +1,8 @@
 # Week 4 – Comic & Storytelling
 
 ## The Artifact
-This comic explores who controls storytelling when AI helps generate narrative.Include images, links, or media as appropriate.
+This comic explores who controls storytelling when AI helps generate narrative.
+<img width="1536" height="1024" alt="ChatGPT Image Feb 13, 2026, 06_43_36 PM" src="https://github.com/user-attachments/assets/23e9b05f-629e-4705-be26-d8d859e11a70" />
 
 ## Process Notes
 How did you make this?
