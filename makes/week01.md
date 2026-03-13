@@ -16,7 +16,7 @@ What decisions did you make? I chose to analyize Roman Empire's transportation n
 In this project, “making” means building a model of the Roman Empire’s transportation network. The model shows how people, goods, and messages could move across the empire. It combines historical data, maps, and research into a working system. This system simulates travel times, costs, and possible routes. Making begins with collecting and organizing data. It also involves reading and interpreting historical sources. Humans decide which cities, roads, rivers, and sea routes to include. They set assumptions about speed, weather, and expense. They also design the interface that users interact with. Human judgment shapes every stage of the process. It determines the structure of the model and how information appears visually. Machines take part in making by handling calculations. They run simulations of travel times and costs. They generate routes between locations. They also create visual outputs, such as maps and charts. Machines make it possible to test many outcomes quickly. This is something humans could not do alone or as fast. Machines follow rules created by humans. They do not make independent decisions. The final model reflects human choices and priorities. Making, in this project, is a collaboration between humans and machines.
 
 ## Attribution & AI Use
-- Tools used:
-- AI prompts (summary):
-- What AI generated:
-- What you changed or decided:
+- Tools used: No AI tools were used.
+- AI prompts (summary): None.
+- What AI generated: Nothing. AI was not used to generate content for this assignment.
+- What you changed or decided:I chose the project, reviewed the ORBIS website, and decided what information was most important to include. I edited the wording to keep it simple and focused on how humans collected the data and designed the model. I also decided how to explain the role of machines and what the visualization shows and leaves out.
