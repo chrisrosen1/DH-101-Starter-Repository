@@ -4,7 +4,8 @@
 For this assignment, I analyzed the first story from Steve Jobs’ 2005 Stanford Commencement Speech using two different tools: Voyant Tools and ChatGPT. In Voyant, I uploaded the text and explored the Cirrus word cloud and the Trends visualization to see which words appeared most often and how their frequency changed throughout the speech. 
 
 I then asked ChatGPT to provide a literary and rhetorical analysis of the same passage. ChatGPT generated a written analysis based o my prompt. The artifact includes both the Voyant visualizations and the GPT analysis in order to compare how each tool approaches the same text.
-Include images, links, or media as appropriate.
+![Trends-1](https://github.com/user-attachments/assets/9a17758d-f235-4156-8299-1868d90fa3a1)
+![Citrus-1](https://github.com/user-attachments/assets/4f8727c5-3038-42a8-8e3f-4ce946e7e014)
 
 ## Process Notes
 How did you make this? I copied the first story from Steve Jobs’ 2005 Stanford Commencement Speech and uploaded the text into Voyant Tools. I used the Cirrus word cloud and the Trends graph to examine which words appeared most often and where they appeared in the speech. I then asked ChatGPT to provide a literary and rhetorical analysis of the same passage and compared the results.
