@@ -16,7 +16,7 @@ Overall, these projects helped me think more carefully about how AI shapes the w
  [ Week 1 – Reverse Engineering](makes/week01.md)
  [Week 3 – AI Selfie](makes/week03.md)
  [Week 4 - Comic and Stortytelling ](makes/week04.md)
- [Week 5](makes/week05.md)
+ [Week 5 - GIF & Remix Culture](makes/week05.md)
  [Week 6](makes/week06.md)
  [Week 7](makes/week07.md)
  [Week 8](makes/week08.md)
