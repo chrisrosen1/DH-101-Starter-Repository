@@ -2,7 +2,7 @@
 
 ## The Artifact
 For this assignment, I created an AI-generated selfie using DALL·E in ChatGPT. I did not upload a real photo. Instead, I used prompts to describe a 24-year-old white man with defined facial features and hazel eyes. The AI generated an image that looked polished and symmetrical but did not really look like me. I then created a second version by changing the style and placing the person in a bright grass field with sunshine, rainbows, and candy in a cartoon-like scene.
-![Selfie1](https://github.com/user-attachments/assets/2db27ff9-639c-445e-ae2f-fda03cee15ad)
+![AI-generated selfie portrait](https://github.com/user-attachments/assets/2db27ff9-639c-445e-ae2f-fda03cee15ad)
 ![Selfie2](https://github.com/user-attachments/assets/4c7dc1db-c97f-4994-a79a-d723763f9e07)
 
 
