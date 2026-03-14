@@ -14,7 +14,7 @@ Overall, these projects helped me think more carefully about how AI shapes the w
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2e893c57-7e38-44b3-bc99-1353c272786b" />
   
  [ Week 1 – Reverse Engineering](makes/week01.md)
- [Week 2 – AI Selfie](makes/week02.md)
+ [Week 3 – AI Selfie](makes/week03.md)
  [Week 2](makes/week02.md)
  [Week 2](makes/week02.md)
  [Week 3](makes/week03.md)
