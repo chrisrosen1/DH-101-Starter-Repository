@@ -23,3 +23,4 @@ Overall, these projects helped me think more carefully about how AI shapes the w
  [Week 6](makes/week06.md)
  [Week 7](makes/week07.md)
  [Week 8](makes/week08.md)
+[Accessibility Statement](accessibility.md)
