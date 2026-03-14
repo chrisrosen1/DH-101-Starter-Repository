@@ -7,7 +7,7 @@ screen fills with many identical copies of the same dog arranged in a grid patte
 frame, the image resets back to one single dog. The loop lasts about four seconds and repeats
 continuously
 
-![Remix](https://github.com/user-attachments/assets/4aefa306-a109-490c-ab14-058c0ee1c7b6)
+![GIF & Remix](https://github.com/user-attachments/assets/4aefa306-a109-490c-ab14-058c0ee1c7b6)
 
 ## Process Notes
 How did you make this? I created the images using ChatGPT Image Generator by writing prompts for each frame of the GIF. The prompts generated images of a small white dog that increased in number across the frames. I then uploaded the images into Canva and arranged them in sequence to create a looping GIF.
