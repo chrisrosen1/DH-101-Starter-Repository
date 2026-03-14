@@ -2,7 +2,7 @@
 
 ## The Artifact
 This artifact is a network visualization I created using Kumu. It maps the relationships between the apps I use, the companies that own them, and the types of data connected to those platforms. I placed myself at the center and arranged the apps around me, with companies and data further out. The labeled connections show relationships such as “uses,” “owned by,” and “collects data.”
-![Image 3-13-26 at 11 10 AM](https://github.com/user-attachments/assets/481e2936-8bfa-4338-a09e-b1cf16fec009)
+![Map created by Kumu](https://github.com/user-attachments/assets/481e2936-8bfa-4338-a09e-b1cf16fec009)
 
 
 ## Process Notes
