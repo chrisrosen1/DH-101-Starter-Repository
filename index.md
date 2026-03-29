@@ -17,6 +17,6 @@ This website showcases my work from the semester exploring humans and artificial
  - [Week 6 - Text & Distant Reading](makes/week06.md)
  - [Week 7 - Mapping AI Worlds](makes/week07.md)
  - [Week 8 - Networks of Knowledge & Power](makes/week08.md)
- - [Week 9 - ](makes/week09.md)
+ - [Week 9 - Bots & Generators ](makes/week09.md)
    
 - [Accessibility Statement](accessibility.md)
