@@ -9,7 +9,13 @@ What tools did you use? I used Twine to build the game. I also used ChatGPT a li
 What decisions did you make? I decided the story, the choices, and the different endings. I chose to focus on whether the player follows AI or ignores it. I also decided how the story would show the tradeoff between control and freedom.
 
 ## Reflection
-Respond to this week’s reflection prompt in 200–300 words.
+I learned that games are a way to tell a story through choices. The player is not just reading. They are making decisions. Each choice changes what happens next. This makes the experience more personal and the message stronger. Games can communicate ideas, not just entertain. In my game, the choices show the tension between control and freedom with AI. The structure of the game helps show this idea clearly.
+My game makes an argument through its rules and choices. If the player follows the AI, their life becomes organized but controlled. If they ignore the AI, their life becomes messy but they keep their freedom. The game shows that relying on AI can take away personal control, but rejecting it can also make life harder. The choices and endings communicate this idea.
+If this was a static story, it would not be as effective. The reader would just see both outcomes instead of choosing them. In the game, the player makes the decision themselves. This makes the experience more meaningful.
+AI worked as a support tool for me. I used it to brainstorm ideas and understand how to use Twine. It also helped me fix small errors. I wrote all of the passages and made all the decisions myself.
+The hardest part was building the structure. I had to make sure every choice connected correctly. If I did this again, I would add more choices and improve the design to make it more engaging.
+
+
 
 ## Attribution & AI Use
 - Tools used: Twine and ChatGPT
