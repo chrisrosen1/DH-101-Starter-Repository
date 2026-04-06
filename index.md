@@ -1,9 +1,9 @@
 # Chris Rosen — DH 101
-Welcome
+## Welcome
 
 Hello, this site documents my work from DH 101
 
-Introduction
+## Introduction
 
 This website showcases my work from the semester exploring humans and artificial intelligence through critical making. Throughout the course, I created projects using AI tools, including an AI selfie, a comic, a GIF, a map, and a game. Each project helped me think about how AI affects creativity, identity, and technology. I learned that AI can be a helpful tool, but human decisions still matter in shaping the final result.
 
