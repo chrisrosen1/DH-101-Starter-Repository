@@ -3,10 +3,7 @@ Welcome to my course site
 Hello, DH — this site will document my critical making this semester.
 - Introduction:
 This website showcases my work from the semester exploring humans and artificial intelligence through critical making. Throughout the course, I created several projects using AI tools, including an AI selfie, a comic, and a digital map. Each project helped me think about how AI changes creativity, identity, and technology.
-
-- I learned that AI tools do not simply create things on their own. Humans guide the process by writing prompts, editing outputs, and making creative decisions. Critical making helped me understand that working with AI is a collaboration between human ideas and machine-generated content.
-
-- Overall, these projects helped me think more carefully about how AI shapes the world and how humans still play an important role in directing how these technologies are used.
+Games & Playdirecting how these technologies are used.
 
 ## Makes
 
@@ -18,5 +15,5 @@ This website showcases my work from the semester exploring humans and artificial
  - [Week 7 - Mapping AI Worlds](makes/week07.md)
  - [Week 8 - Networks of Knowledge & Power](makes/week08.md)
  - [Week 9 - Bots & Generators ](makes/week09.md)
-  - [Week 10 -  ](makes/week10.md)
+  - [Week 10 - Games & Play ](makes/week10.md)
 - [Accessibility Statement](accessibility.md)
