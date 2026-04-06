@@ -18,5 +18,5 @@ This website showcases my work from the semester exploring humans and artificial
  - [Week 7 - Mapping AI Worlds](makes/week07.md)
  - [Week 8 - Networks of Knowledge & Power](makes/week08.md)
  - [Week 9 - Bots & Generators ](makes/week09.md)
-   
+  - [Week 10 -  ](makes/week10.md)
 - [Accessibility Statement](accessibility.md)
