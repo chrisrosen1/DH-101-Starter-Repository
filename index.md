@@ -15,5 +15,5 @@ Games & Playdirecting how these technologies are used.
  - [Week 7 - Mapping AI Worlds](makes/week07.md)
  - [Week 8 - Networks of Knowledge & Power](makes/week08.md)
  - [Week 9 - Bots & Generators ](makes/week09.md)
-  - [Week 10 - Games & Play ](makes/week10.md)
+ - [Week 10 - Games & Play ](makes/week10.md)
 - [Accessibility Statement](accessibility.md)
