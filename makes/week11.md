@@ -2,8 +2,8 @@
 
 ## The Artifact
 This project is a digital zine created using Canva slides. It explores the hidden labor behind AI, focusing on the people who train and maintain these systems. The zine is organized into sections that explain the problem, the workers involved, the conditions they face, and who benefits from this labor. It combines short text, statistics, and images to make the topic clear and engaging. The goal of the project is to show that AI is not fully automatic and depends on human work that is often invisible.
-<img width="1440" height="810" alt="image" src="https://github.com/user-attachments/assets/42a91e17-9b4b-47cd-ab4a-29a5d6f25725" />
 
+https://canva.link/qjk6ho878lgd7in
 ## Process Notes
 How did you make this? I created this project as a digital zine using Canva. I first researched the topic using class readings and outside sources, then organized my ideas into sections like the problem, the people, and the conditions. After that, I drafted short text for each slide and focused on keeping the language clear and easy to understand. I used Canva to design the slides, choosing simple layouts and adding images to support the ideas.
 What tools did you use? I used Canva.
