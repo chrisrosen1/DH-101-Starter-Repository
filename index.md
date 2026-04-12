@@ -19,4 +19,5 @@ This website showcases my work from the semester exploring humans and artificial
  - [Week 8 - Networks of Knowledge & Power](makes/week08.md)
  - [Week 9 - Bots & Generators ](makes/week09.md)
  - [Week 10 - Games & Play ](makes/week10.md)
+- [Week 11 - AI & Labor ](makes/week11.md)
 - [Accessibility Statement](accessibility.md)
