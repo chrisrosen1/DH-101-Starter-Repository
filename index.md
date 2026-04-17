@@ -21,5 +21,6 @@ This website showcases my work from the semester exploring humans and artificial
  - [Week 10 - Games & Play ](makes/week10.md)
 - [Week 11 - AI & Labor ](makes/week11.md)
 -  [Week 12 - AI & Ecology ](makes/week12.md)
+-  [Sustainability & Ethics] (makes/Sustainability & Ethics)
 
 - [Accessibility Statement](accessibility.md)
