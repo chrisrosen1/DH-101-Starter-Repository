@@ -13,6 +13,7 @@ Patterson, David, et al. “Carbon Emissions and Large Neural Network Training.�
 “Comparative Analysis of AI and Human Carbon Emissions.” Nature, 2024.
 ## Personal Reflection
 My AI Use Habits
+
 I use AI mostly for schoolwork, like brainstorming ideas, understanding concepts, and getting unstuck when I’m not sure how to start something. It’s something I tend to use quickly and casually without thinking much about the impact behind it.
 
 Estimated Impact
