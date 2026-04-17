@@ -20,4 +20,6 @@ This website showcases my work from the semester exploring humans and artificial
  - [Week 9 - Bots & Generators ](makes/week09.md)
  - [Week 10 - Games & Play ](makes/week10.md)
 - [Week 11 - AI & Labor ](makes/week11.md)
+-  [Week 12 - AI & Ecology ](makes/week12.md)
+
 - [Accessibility Statement](accessibility.md)
