@@ -22,7 +22,6 @@ This website showcases my work from the semester exploring humans and artificial
 - [Week 11 - AI & Labor ](makes/week11.md)
 -  [Week 12 - AI & Ecology ](makes/week12.md)
 -  [Week 13 - Futures of AI & Humanity ](makes/week12.md)
--  [Week 13 - Futures of AI & Humanity ] (makes/week13.md)
 -  
 - [Sustainability & Ethics ](makes/Sustainability.md)
 
