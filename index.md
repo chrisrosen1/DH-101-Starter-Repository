@@ -7,7 +7,7 @@ Hello, this site documents my work from DH 101
 
 This website showcases my work from the semester exploring what it means to be human in the age of artificial intelligence. Through critical making, I created projects using AI tools such as an AI selfie, a comic, a GIF, a map, and a game. Each project helped me think more carefully about how AI shapes creativity, identity, and the way we make decisions.
 
-As I worked through these projects, I started to realize that AI is not as independent as it seems. It depends on human input at every stage, from the prompts we write to the choices we make about what to keep or change. Because of this, AI does not replace human creativity—it changes how creativity works. In many cases, I noticed that AI could generate ideas quickly, but the results often felt repetitive or similar. This showed me that human judgment is still necessary to make something meaningful.
+As I worked through these projects, I started to realize that AI is not as independent as it seems. It depends on human input at every stage, from the prompts we write to the choices we make about what to keep or change. Because of this, AI does not replace human creativity. It changes how creativity works. In many cases, I noticed that AI could generate ideas quickly, but the results often felt repetitive or similar. This showed me that human judgment is still necessary to make something meaningful.
 
 At the same time, using AI made me question how much control we actually have. It is easy to rely on AI to do the work, but doing so can take away from the creative process. This made me more aware of the importance of staying involved and making intentional decisions.
 
