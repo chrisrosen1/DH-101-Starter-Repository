@@ -29,6 +29,6 @@ Overall, this course helped me understand that being human in the age of AI mean
 -  [Week 12 - AI & Ecology ](makes/week12.md)
 -  [Week 13 - Futures of AI & Humanity ](makes/week12.md)
   
-- [Sustainability & Ethics ](makes/Sustainability.md)
+- [Accessibility & Sustainability ](makes/Sustainability.md)
 
 - [Accessibility Statement](accessibility.md)
