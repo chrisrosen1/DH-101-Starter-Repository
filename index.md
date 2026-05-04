@@ -59,5 +59,5 @@ Overall, this course helped me understand that being human in the age of AI mean
 ## AI Use Statement
 
 ## Accessibility & Sustainability Statement
-
+- [Accessibility & Sustainability ](makes/Sustainability.md)
 ## Final Reflective Essay
