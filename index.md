@@ -24,6 +24,7 @@ Overall, this course helped me understand that being human in the age of AI mean
 
 ## Makes
 
+- 🔍 [Clue 1: Reverse Engineering](makes/week01.md)
  - [ Week 1 – Reverse Engineering](makes/week01.md)
  - [Week 3 – AI Selfie](makes/week03.md)
  - [Week 4 - Comic and Storytelling ](makes/week04.md)
