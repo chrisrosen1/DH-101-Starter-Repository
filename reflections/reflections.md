@@ -1,1 +1,15 @@
+## Reflections
 
+- [Week 1 – Reverse Engineering](reflections/week01.md)
+- [Week 3 – AI Selfie](reflections/week03.md)
+- [Week 4 – Comic and Storytelling](reflections/week04.md)
+- [Week 5 – GIF & Remix Culture](reflections/week05.md)
+- [Week 6 – Text & Distant Reading](reflections/week06.md)
+- [Week 7 – Mapping AI Worlds](reflections/week07.md)
+- [Week 8 – Networks of Knowledge & Power](reflections/week08.md)
+- [Week 9 – Bots & Generators](reflections/week09.md)
+- [Week 10 – Games & Play](reflections/week10.md)
+- [Week 11 – AI & Labor](reflections/week11.md)
+- [Week 12 – AI & Ecology](reflections/week12.md)
+- [Week 13 – Futures of AI & Humanity](reflections/week13.md)
+- [Week 14 – Final Reflection](reflections/week14.md)
