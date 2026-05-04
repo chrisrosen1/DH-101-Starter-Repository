@@ -16,3 +16,5 @@ You found the clues—now see what I learned from them.
 - [Week 13 – Futures of AI & Humanity](week13.md)
 
 🧠 [Final Thougts: What does it mean to be human in the age of AI?](week14.md) 
+
+🏠 [Back to Home](https://chrisrosen1.github.io/DH-101-Starter-Repository/)
