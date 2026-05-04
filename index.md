@@ -36,3 +36,5 @@ Overall, this course helped me understand that being human in the age of AI mean
 - [Accessibility & Sustainability ](makes/Sustainability.md)
 
 - [Accessibility Statement](accessibility.md)
+
+## Reflections
