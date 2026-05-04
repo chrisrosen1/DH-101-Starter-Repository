@@ -27,7 +27,7 @@ Ready to explore? Go to my Makes section
 
 [Begin the scavenger hunt →](makes/makes.md)
 
-Follow the clues to explore how AI works and what it means to be human.
+
 
 ## Makes
 
