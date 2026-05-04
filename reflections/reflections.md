@@ -14,6 +14,5 @@ You found the clues—now see what I learned from them.
 - [Week 11 – AI & Labor](week11.md)
 - [Week 12 – AI & Ecology](week12.md)
 - [Week 13 – Futures of AI & Humanity](week13.md)
-- [Week 14 – Final Reflection](week14.md)
 
 🧠 [Final Thougts: What does it mean to be human in the age of AI?](week14.md) 
