@@ -53,4 +53,4 @@ By focusing on clear content and minimal design, my site requires fewer resource
 
 [Accessibility Statement](accessibility.md)
 
-## Final Reflective Essay
+## 🎯 Final Reflective Essay
