@@ -1,4 +1,4 @@
-# Chris Rosen — DH 101
+<h1># Chris Rosen — DH 101<h1></h1>
 ## Welcome
 
 Hello, this site documents my work from DH 101
