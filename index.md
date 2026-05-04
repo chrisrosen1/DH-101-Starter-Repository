@@ -2,9 +2,9 @@
   
 <h1>Chris Rosen — DH 101</h1>
 <h2>Welcome</h2>
-
+--
 Hello, this site documents my work from DH 101
-
+--
 <h3> About Me </h3>
 
 My name is Chris Rosen. I am a senior at Denison University. I live in Fairfeld, Connecticut. I enjoy playing tennis and spending time with my friends.
