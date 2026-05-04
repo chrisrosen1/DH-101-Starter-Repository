@@ -21,9 +21,7 @@ At the same time, using AI made me question how much control we actually have. I
 
 Overall, this course helped me understand that being human in the age of AI means staying critical and aware. AI is a powerful tool, but it reflects the choices and values of the people using it. Because of this, humans are still responsible for how AI is used and what it creates.
 
-### 🔍 Start Here
-
-Ready to explore? Go to my Makes section 
+### 🔍 Ready to explore? Go to my Makes section. 
 
 [Begin the scavenger hunt →](makes/makes.md)
 
