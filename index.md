@@ -27,7 +27,10 @@ Ready to explore? Go to my Makes section
 
 [Begin the scavenger hunt →](makes/makes.md)
 
-What did I learn? Read my weekly refelctions.
+## 🧠 What did I learn? Read my weekly reflections.
+
+[Each clue led to a reflection. Explore them here →](reflections/reflections.md)
+
 
 ## AI Use Statement
 
