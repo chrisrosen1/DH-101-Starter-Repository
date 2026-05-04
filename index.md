@@ -3,8 +3,6 @@
 <h1>Chris Rosen — DH 101</h1>
 <h2>Welcome</h2>
 
---
-
 Hello, this site documents my work from DH 101
 
 <h3> About Me </h3>
