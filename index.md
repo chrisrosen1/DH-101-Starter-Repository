@@ -31,8 +31,8 @@ Overall, this course helped me understand that being human in the age of AI mean
 - 📊 [Clue 5: Text & Distant Reading](makes/week06.md) – How does AI find patterns in text?
 - 🗺️ [Clue 6: Mapping AI Worlds](makes/week07.md) – How does AI represent the world? 
 - 🕸️ [Clue 7: Networks of Knowledge & Power](makes/week08.md) – Who controls the information AI uses?
+- 🤖 [Clue 8: Bots & Generators](makes/week09.md) – Can AI create on its own?
 
- - [Week 8 - Networks of Knowledge & Power](makes/week08.md)
  - [Week 9 - Bots & Generators ](makes/week09.md)
  - [Week 10 - Games & Play ](makes/week10.md)
  - [Week 11 - AI & Labor ](makes/week11.md)
