@@ -38,7 +38,7 @@ Overall, this course helped me understand that being human in the age of AI mean
 - 🔮 [Clue 12: Futures of AI & Humanity](makes/week13.md) – What might our future with AI look like? 
 - 🧠 [Final Reflection: What does it mean to be human in the age of AI?](reflections/week14.md) 
 
-- [Accessibility & Sustainability ](makes/Sustainability.md)
+
 - [Accessibility Statement](accessibility.md)
 
 ## Reflections
@@ -60,4 +60,6 @@ Overall, this course helped me understand that being human in the age of AI mean
 
 ## Accessibility & Sustainability Statement
 - [Accessibility & Sustainability ](makes/Sustainability.md)
+- - [Accessibility Statement](accessibility.md)
+
 ## Final Reflective Essay
