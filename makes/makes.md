@@ -18,9 +18,6 @@ Welcome to the scavenger hunt. Each clue explores a different question about AI.
 
 ## 🧠 What did I learn?
 
-
 [Each clue led to a reflection. Explore them here →](../reflections/reflections.md)
-
-- 🏠 [Back to Home](/DH-101-Starter-Repository/)
 
 - 🏠 [Back to Home](https://chrisrosen1.github.io/DH-101-Starter-Repository/)
