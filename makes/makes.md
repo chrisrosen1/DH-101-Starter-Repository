@@ -23,4 +23,4 @@ Welcome to the scavenger hunt. Each clue explores a different question about AI.
 
 - 🏠 [Back to Home](/DH-101-Starter-Repository/)
 
-- 🏠 [Back to Home](./index.md)
+- 🏠 [Back to Home](./)
