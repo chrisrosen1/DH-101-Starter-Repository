@@ -27,8 +27,8 @@ Overall, this course helped me understand that being human in the age of AI mean
 - 🔍 [Clue 1: Reverse Engineering](makes/week01.md)
 - 🎭 [Clue 2: AI Selfie](makes/week03.md) – What happens when AI tries to create your identity?
 - 📖 [Clue 3: Comic and Storytelling](makes/week04.md) – How does AI tell a story? 
- - [Week 4 - Comic and Storytelling ](makes/week04.md)
- - [Week 5 - GIF & Remix Culture](makes/week05.md)
+- 🔁 [Clue 4: GIF & Remix Culture](makes/week05.md) – What happens when AI remixes ideas? 
+- 📊 [Clue 5: Text & Distant Reading](makes/week06.md) – How does AI find patterns in text? 
  - [Week 6 - Text & Distant Reading](makes/week06.md)
  - [Week 7 - Mapping AI Worlds](makes/week07.md)
  - [Week 8 - Networks of Knowledge & Power](makes/week08.md)
