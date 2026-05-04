@@ -3,6 +3,7 @@
 Welcome to the scavenger hunt. Each clue explores a different question about AI. Follow them in order and see what you discover.
 
 - 🔍 [Clue 1: Reverse Engineering](..makes/week01.md)
+- 🔍 [Clue 1: Reverse Engineering](week01.md)
 - 🎭 [Clue 2: AI Selfie](..makes/week03.md) – What happens when AI tries to create your identity?
 - 📖 [Clue 3: Comic and Storytelling](makes/week04.md) – How does AI tell a story? 
 - 🔁 [Clue 4: GIF & Remix Culture](makes/week05.md) – What happens when AI remixes ideas? 
