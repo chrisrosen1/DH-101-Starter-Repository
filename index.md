@@ -29,11 +29,9 @@ Overall, this course helped me understand that being human in the age of AI mean
 
 [Each clue led to a reflection. Explore them here →](reflections/reflections.md)
 
-
-## AI Use Statement
+## 🤖 AI Use Statement
 
  [View my AI Use Statement →](aiuse.md)
-
 
 ## Accessibility & Sustainability Statement
 - [Accessibility & Sustainability ](makes/Sustainability.md)
