@@ -23,6 +23,9 @@ Overall, this course helped me understand that being human in the age of AI mean
 
 ### 🔍 Start Here
 
+Ready to explore?  
+[Begin the scavenger hunt →](makes.md)
+
 Follow the clues to explore how AI works and what it means to be human.
 
 ## Makes
