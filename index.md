@@ -50,6 +50,7 @@ To reduce the environmental impact of my site, I kept it lightweight and simple.
 By focusing on clear content and minimal design, my site requires fewer resources to load and run. This approach reflects an understanding that even small design choices can contribute to reducing the environmental impact of digital technologies.
 
 [Accessibility & Sustainability ](makes/Sustainability.md)
+
 [Accessibility Statement](accessibility.md)
 
 ## Final Reflective Essay
