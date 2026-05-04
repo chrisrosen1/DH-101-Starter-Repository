@@ -36,8 +36,8 @@ Overall, this course helped me understand that being human in the age of AI mean
 - 🧑‍💻 [Clue 10: AI & Labor](makes/week11.md) – Who is really doing the work behind AI?
 - 🌱 [Clue 11: AI & Ecology](makes/week12.md) – What is the environmental cost of AI? 
 - 🔮 [Clue 12: Futures of AI & Humanity](makes/week13.md) – What might our future with AI look like? 
- 
-- [Week 13 - Futures of AI & Humanity ](makes/week13.md)
+- 🧠 [Final Reflection: What does it mean to be human in the age of AI?](reflections/week14.md) 
+
 - [Accessibility & Sustainability ](makes/Sustainability.md)
 - [Accessibility Statement](accessibility.md)
 
