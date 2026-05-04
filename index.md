@@ -39,8 +39,6 @@ Overall, this course helped me understand that being human in the age of AI mean
 - 🧠 [Final Reflection: What does it mean to be human in the age of AI?](reflections/week14.md) 
 
 
-- [Accessibility Statement](accessibility.md)
-
 ## Reflections
 
 - [Week 1 – Reverse Engineering](reflections/week01.md)
@@ -60,6 +58,7 @@ Overall, this course helped me understand that being human in the age of AI mean
 
 ## Accessibility & Sustainability Statement
 - [Accessibility & Sustainability ](makes/Sustainability.md)
-- - [Accessibility Statement](accessibility.md)
+- [Accessibility Statement](accessibility.md)
+
 
 ## Final Reflective Essay
