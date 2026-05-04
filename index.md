@@ -1,4 +1,4 @@
-<span style="color: red;">Important section</span>
+
   
 <h1>Chris Rosen — DH 101</h1>
 <h2>Welcome</h2>
