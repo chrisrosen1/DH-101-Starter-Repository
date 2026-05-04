@@ -1,5 +1,4 @@
- background-color: #f5f5f5;
-  color: #222;
+<span style="color: #1a73e8;">## Makes</span>
   
 <h1>Chris Rosen — DH 101</h1>
 <h2>Welcome</h2>
