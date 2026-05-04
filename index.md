@@ -32,7 +32,6 @@ Overall, this course helped me understand that being human in the age of AI mean
 
 ## AI Use Statement
 
-
  [View my AI Use Statement →](ai-use.md)
 
 In this course, I used AI mainly as a tool to support my creative and technical work. I used AI image generators, including ChatGPT’s image tools and DALL·E, to create visuals for several projects. I also used AI to help generate ideas and assist with small technical tasks when building my website, such as fixing links and organizing pages. While these tools helped me work more efficiently, they did not complete the work on their own. I was responsible for making decisions, editing outputs, and shaping the final results.
