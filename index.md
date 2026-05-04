@@ -3,7 +3,9 @@
 <h1>Chris Rosen — DH 101</h1>
 <h2>Welcome</h2>
 
-Hello, this site documents my work from DH 101
+Hello, this site documents my work from DH 101. 
+
+Explore this site like a scavenger hunt. Each project reveals something different about AI. Follow the clues and see what you discover.
 
 <h3> About Me </h3>
 
