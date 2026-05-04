@@ -23,3 +23,4 @@ Welcome to the scavenger hunt. Each clue explores a different question about AI.
 
 
 [🏠 Back to Home](./)
+- 🏠 [Back to Home](../index.html)
