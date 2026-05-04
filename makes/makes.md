@@ -18,4 +18,5 @@ Welcome to the scavenger hunt. Each clue explores a different question about AI.
 
 ## 🧠 What did I learn?
 
-Each clue led to a reflection. Explore them here:
+
+[Each clue led to a reflection. Explore them here →](reflections/reflections.md)
