@@ -1,5 +1,7 @@
 ## Reflections
 
+You found the clues—now see what I learned from them.
+
 - [Week 1 – Reverse Engineering](reflections/week01.md)
 - [Week 3 – AI Selfie](reflections/week03.md)
 - [Week 4 – Comic and Storytelling](reflections/week04.md)
