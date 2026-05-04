@@ -5,6 +5,8 @@ Hello, this site documents my work from DH 101
 
 <h3> About Me </h3>
 
+My name is Chris Rosen. I am a senior at Denison University. I live in Fairfeld, Connecticut. I enjoy playing tennis and spending time with my friends.
+
 ## Introduction
 
 This website showcases my work from the semester exploring what it means to be human in the age of artificial intelligence. Through critical making, I created projects using AI tools such as an AI selfie, a comic, a GIF, a map, and a game. Each project helped me think more carefully about how AI shapes creativity, identity, and the way we make decisions.
