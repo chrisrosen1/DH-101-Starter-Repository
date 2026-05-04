@@ -34,8 +34,7 @@ Overall, this course helped me understand that being human in the age of AI mean
 
 # AI Use Statement
 
-View my AI Use Statement →](ai-use.md)
-
+- [View my AI Use Statement →](ai-use.md)
 In this course, I used AI mainly as a tool to support my creative and technical work. I used AI image generators, including ChatGPT’s image tools and DALL·E, to create visuals for several projects. I also used AI to help generate ideas and assist with small technical tasks when building my website, such as fixing links and organizing pages. While these tools helped me work more efficiently, they did not complete the work on their own. I was responsible for making decisions, editing outputs, and shaping the final results.
 
 One example of my AI use was the AI selfie project. For this assignment, I created an AI-generated selfie using DALL·E in ChatGPT. I did not upload a real photo. Instead, I used prompts to describe a 24-year-old white man with defined facial features and hazel eyes. The AI generated an image that looked polished and symmetrical but did not really look like me. I then created a second version by changing the style and placing the person in a bright grass field with sunshine, rainbows, and candy in a cartoon-like scene. This showed me that AI can follow prompts, but it often produces idealized or unrealistic versions of people rather than capturing real identity.
