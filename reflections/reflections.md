@@ -15,3 +15,5 @@ You found the clues—now see what I learned from them.
 - [Week 12 – AI & Ecology](reflections/week12.md)
 - [Week 13 – Futures of AI & Humanity](reflections/week13.md)
 - [Week 14 – Final Reflection](reflections/week14.md)
+
+- 🧠 [Final Reflection: What does it mean to be human in the age of AI?](reflections/week14.md) 
