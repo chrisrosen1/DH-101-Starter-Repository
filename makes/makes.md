@@ -16,3 +16,4 @@ Welcome to the scavenger hunt. Each clue explores a different question about AI.
 - 🔮 [Clue 12: Futures of AI & Humanity](makes/week13.md) – What might our future with AI look like? 
 - 🧠 [Final Reflection: What does it mean to be human in the age of AI?](reflections/week14.md) 
 
+## 🧠 What did I learn?
