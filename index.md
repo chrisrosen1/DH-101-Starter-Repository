@@ -1,3 +1,6 @@
+ background-color: #f5f5f5;
+  color: #222;
+  
 <h1>Chris Rosen — DH 101</h1>
 <h2>Welcome</h2>
 
