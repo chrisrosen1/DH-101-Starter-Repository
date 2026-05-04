@@ -23,7 +23,7 @@ Overall, this course helped me understand that being human in the age of AI mean
 
 ### 🔍 Start Here
 
-Ready to explore?  
+Ready to explore? Go to my Makes section 
 
 [Begin the scavenger hunt →](makes/makes.md)
 
