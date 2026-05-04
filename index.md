@@ -27,6 +27,7 @@ Ready to explore? Go to my Makes section
 
 [Begin the scavenger hunt →](makes/makes.md)
 
+What did I learn? Read my weekly refelctions.
 
 ## AI Use Statement
 
