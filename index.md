@@ -7,8 +7,7 @@ Hello, this site documents my work from DH 101.
 
 Explore this site like a scavenger hunt. Each project reveals something different about AI. Follow the clues and see what you discover.
 
-<h3> About Me </h3>
-## About Me
+<h2> About Me </h2>
 
 My name is Chris Rosen. I am a senior at Denison University. I live in Fairfeld, Connecticut. I enjoy playing tennis and spending time with my friends.
 
