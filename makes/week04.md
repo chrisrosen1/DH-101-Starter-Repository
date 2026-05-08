@@ -21,15 +21,6 @@ Comic Description (5–6 Panels)
 
 -Panel 6: The student faces the reader and says, “AI is helpful… but I still don’t trust it.” The computer responds, “I am listening and taking note of this.”
 
-What tools did you use? 
-ChatGPT (dialogue), ChatGPT Image Generator (images), DALL·E (attempted images), Canva (attempted panel layout)
-
-What decisions did you make?
-AI Tools Used: ChatGPT (dialogue ideas), ChatGPT (cartoon images), DALL-E, Canva
-AI Role: Generated character cartoon images.
-My Contribution: Story idea, editing dialogue, prompts in ChatGPT, writing the reflection.
-Notes: AI assisted with generation, but I made the final decisions about wording, structure, and meaning.
-
 ## 🧠 My Take
 At first, I tried to create six separate images using DALL·E. Each time, the character looked different in every image. The program also had trouble placing the text bubbles correctly. The faces changed slightly, and the style was not consistent. This made it difficult to tell one clear story across all six panels.
 I also tried to build the comic in Canva, but that was challenging too. It was harder than I expected to match the images with the dialogue and keep everything aligned. The process felt frustrating because the tools were not giving me the exact result I imagined.
