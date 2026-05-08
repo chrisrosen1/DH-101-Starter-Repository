@@ -44,17 +44,22 @@ Cartoon-style character images and dialogue suggestions.
 I created the story concept, wrote and edited the prompts, selected the final outputs, revised the dialogue, organized the narrative structure, and wrote the reflection.
 
 **AI Prompts:**  
+
 Panel 1:
 A college student sits at his desk in a dorm room looking at his computer. A speech bubble says,
 “I have a comic due in 2 hours… perfect time to discover AI.”
+
 Panel 2:
 The computer screen says, “✨ MASTERPIECE GENERATED ✨” The student responds,
 “You didn’t even ask my name…”
+
 Panel 3:
 The student looks confused and frustrated. He says, “This is not me… I didn’t do anything.” The
 computer replies, “You’re welcome, valued human.”
+
 Panel 4:
 The student types angrily and says, “I am rewriting ALL of this.”
+
 Panel 5:
 The student smiles at the screen and says, “Okay, now it sounds like me.” The computer replies,
 “…I did all of the emotional work.”
