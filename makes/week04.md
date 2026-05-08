@@ -37,10 +37,13 @@ This experience showed me that there are many different AI tools, and each one w
 
 ## 🤖 AI & Attribution
 **Tools Used:** ChatGPT (dialogue ideas), ChatGPT Image Generator, DALL·E, Canva  
+
 **What AI Generated:**  
 Cartoon-style character images and dialogue suggestions.
+
 **My Role:**  
 I created the story concept, wrote and edited the prompts, selected the final outputs, revised the dialogue, organized the narrative structure, and wrote the reflection.
+
 **AI Prompts:**  
 Panel 1:
 A college student sits at his desk in a dorm room looking at his computer. A speech bubble says,
