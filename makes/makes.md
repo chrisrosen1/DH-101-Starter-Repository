@@ -8,7 +8,7 @@ Welcome to the scavenger hunt. Each clue explores a different question about AI.
 - 🔁 [Clue 4: GIF & Remix Culture. ♾️ Infinite Repetition](week05.md) – What happens when AI remixes ideas? 
 - 📊 [Clue 5: Text & Distant Reading. 📖 Reading Without Understanding](week06.md) – How does AI find patterns in text?
 - 🗺️ [Clue 6: Mapping AI Worlds. 🌍 The Geography of AI](week07.md) – How does AI represent the world? 
-- 🕸️ [Clue 7: Networks of Knowledge & Power](week08.md) – Who controls the information AI uses?
+- 🕸️ [Clue 7: Networks of Knowledge & Power. 🔗 Networks of Power](week08.md) – Who controls the information AI uses?
 - 🤖 [Clue 8: Bots & Generators](week09.md) – Can AI create on its own?
 - 🎮 [Clue 9: Games & Play](week10.md) – What can games teach us about AI decision-making?
 - 🧑‍💻 [Clue 10: AI & Labor](week11.md) – Who is really doing the work behind AI?
