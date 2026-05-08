@@ -21,9 +21,11 @@ This project helped me understand that AI often creates clean and flawless versi
 **Tools Used:** DALL·E through ChatGPT 
 **AI Prompts:**  
 - Prompt 1: “Show a 24-year-old white man with defined facial features and hazel eyes.”  
-- Prompt 2: “Show a 24-year-old white man with defined facial features and hazel eyes. Place him in a bright grass field with sunshine, rainbows, and candy. Make it more cartoon-like.”  
+- Prompt 2: “Show a 24-year-old white man with defined facial features and hazel eyes. Place him in a bright grass field with sunshine, rainbows, and candy. Make it more cartoon-like.”
+  
 **What AI Generated:**
   The portrait images.
+  
 **My Role:**    
 I wrote the prompts, decided how the person and setting would be described, selected the final images, and wrote the reflection.
 
