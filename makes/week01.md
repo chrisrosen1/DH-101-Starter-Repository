@@ -3,8 +3,6 @@
 ## The Artifact
 ORBIS is an interactive digital model of the Roman Empire’s transportation network. It shows travel routes, time, and cost between major cities. Users can explore maps and simulations to ask questions about movement across the empire, such as how long or how expensive a journey would be.
 
-Include images, links, or media as appropriate.
-
 ## Process Notes
 How did you make this? The project uses data about cities, roads, rivers, sea routes, travel speeds, and costs. This information comes from historical texts, archaeological evidence, maps, and scholarly research. ORBIS focuses on major routes and connections, leaving out small roads and local travel to emphasize large-scale patterns.
 
