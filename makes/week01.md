@@ -16,7 +16,6 @@ In this project, “making” means building a model of the Roman Empire’s tra
 
 ## 🤖 AI & Attribution
 **Tools Used:** ORBIS, GIS mapping systems, databases  
-- Tools used: No AI tools were used.
-- AI prompts (summary): None.
-- What AI generated: Nothing. AI was not used to generate content for this assignment.
-- What you changed or decided:I chose the project, reviewed the ORBIS website, and decided what information was most important to include. I edited the wording to keep it simple and focused on how humans collected the data and designed the model. I also decided how to explain the role of machines and what the visualization shows and leaves out.
+**AI Use:** No AI tools were used in this project. 
+**My Role:** I selected the project, analyzed the ORBIS platform, and decided what information and themes were most important to highlight.
+
