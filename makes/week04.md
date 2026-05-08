@@ -60,4 +60,4 @@ Panel 6:
 The student faces the reader and says, “AI is helpful… but I still don’t trust it.” The computer
 responds, “I am listening and taking note of this.”
 
-
+🗂️ [Back to the Collection](makes.md)
