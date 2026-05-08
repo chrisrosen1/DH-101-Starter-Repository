@@ -1,10 +1,10 @@
-# Week 4 – Comic & Storytelling
-
-## The Artifact
+# 💬 Who Wrote This?
+*"A comic exploring authorship, creativity, and control in AI-assisted storytelling."*
+## 🎨 The Artifact
 This comic explores who controls storytelling when AI helps generate narrative.
 <img width="1536" height="1024" alt="AI-generated comic" src="https://github.com/user-attachments/assets/23e9b05f-629e-4705-be26-d8d859e11a70" />
 
-## Process Notes
+## ⚙️ How It Works
 How did you make this?
 Comic Description (5–6 Panels)
 Panel 1:
@@ -29,15 +29,20 @@ AI Role: Generated character cartoon images.
 My Contribution: Story idea, editing dialogue, prompts in ChatGPT, writing the reflection.
 Notes: AI assisted with generation, but I made the final decisions about wording, structure, and meaning.
 
-## Reflection
+## 🧠 My Take
 At first, I tried to create six separate images using DALL·E. Each time, the character looked different in every image. The program also had trouble placing the text bubbles correctly. The faces changed slightly, and the style was not consistent. This made it difficult to tell one clear story across all six panels.
 I also tried to build the comic in Canva, but that was challenging too. It was harder than I expected to match the images with the dialogue and keep everything aligned. The process felt frustrating because the tools were not giving me the exact result I imagined.
 In the end, I entered all six prompts into the ChatGPT image generator instead. The final project looked much closer to what I wanted. The character stayed consistent, and the text appeared more clearly in the panels.
 This experience showed me that there are many different AI tools, and each one works differently. If you want a specific result, you need to choose the right tool. I was surprised at how accurately ChatGPT was able to create what I described in my prompts. It made me realize that the outcome depends not just on AI, but on selecting the right system for the task and using the right prompts.
 
-## Attribution & AI Use
-- Tools used: ChatGPT (dialogue ideas), ChatGPT (cartoon images), DALL-E, Canva
-- AI prompts (summary): Panel 1:
+## 🤖 AI & Attribution
+**Tools Used:** ChatGPT (dialogue ideas), ChatGPT Image Generator, DALL·E, Canva  
+**What AI Generated:**  
+Cartoon-style character images and dialogue suggestions.
+**My Role:**  
+I created the story concept, wrote and edited the prompts, selected the final outputs, revised the dialogue, organized the narrative structure, and wrote the reflection.
+**AI Prompts:**  
+Panel 1:
 A college student sits at his desk in a dorm room looking at his computer. A speech bubble says,
 “I have a comic due in 2 hours… perfect time to discover AI.”
 Panel 2:
@@ -54,5 +59,5 @@ The student smiles at the screen and says, “Okay, now it sounds like me.” Th
 Panel 6:
 The student faces the reader and says, “AI is helpful… but I still don’t trust it.” The computer
 responds, “I am listening and taking note of this.”
-- What AI generated: Generated character cartoon images.
-- What you changed or decided: Story idea, editing dialogue, prompts in ChatGPT, writing the reflection.
+
+
