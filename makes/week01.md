@@ -1,4 +1,6 @@
 # Reverse Engineering. 🔧 Inside the Machine
+*"A digital reconstruction of movement, infrastructure, and power across the Roman Empire."*
+
 
 ## The Artifact
 ORBIS is an interactive digital model of the Roman Empire’s transportation network. It shows travel routes, time, and cost between major cities. Users can explore maps and simulations to ask questions about movement across the empire, such as how long or how expensive a journey would be.
