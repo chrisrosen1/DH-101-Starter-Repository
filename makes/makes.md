@@ -11,7 +11,7 @@ Welcome to the scavenger hunt. Each clue explores a different question about AI.
 - 🕸️ [Clue 7: Networks of Knowledge & Power. 🔗 Visible / Invisible](week08.md) – Who controls the information AI uses?
 - 🤖 [Clue 8: Bots & Generators. 🎲 The Human in the Generator](week09.md) – Can AI create on its own?
 - 🎮 [Clue 9: Games & Play. 🎮 Rules of Play](week10.md) – What can games teach us about AI decision-making?
-- 🧑‍💻 [Clue 10: AI & Labor](week11.md) – Who is really doing the work behind AI?
+- 🧑‍💻 [Clue 10: AI & Labor. 👷 Ghost Work](week11.md) – Who is really doing the work behind AI?
 - 🌱 [Clue 11: AI & Ecology](week12.md) – What is the environmental cost of AI? 
 - 🔮 [Clue 12: Futures of AI & Humanity](week13.md) – What might our future with AI look like? 
 
