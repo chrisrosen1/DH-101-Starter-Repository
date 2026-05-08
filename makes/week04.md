@@ -6,6 +6,7 @@ This comic explores who controls storytelling when AI helps generate narrative.
 
 ## ⚙️ How It Works
 How did you make this?
+
 Comic Description (5–6 Panels)
 -Panel 1: A college student sits at his desk in a dorm room looking at his computer. A speech bubble says, “I have a comic due in 2 hours… perfect time to discover AI.”
 
