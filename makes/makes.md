@@ -1,4 +1,4 @@
-## Makes
+## Makes 🗂️ The Collection
 
 Welcome to the scavenger hunt. Each clue explores a different question about AI. Follow them in order and see what you discover.
 
