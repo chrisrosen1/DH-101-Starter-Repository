@@ -32,6 +32,6 @@ Most of the profit from AI goes to large technology companies like Amazon, Googl
 - Selected statistics and images
 - Designed the visual presentation and argument
 
-
+🗂️ [Back to the Collection](makes.md)
 
 
