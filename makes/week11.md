@@ -1,7 +1,7 @@
 
 # The Humans Behind AI
 ## Invisible Labor in Automated Systems
-## The Artifact
+## 🎨 The Artifact
 This project is a digital zine created using Canva slides. It explores the hidden labor behind AI, focusing on the people who train and maintain these systems. The zine is organized into sections that explain the problem, the workers involved, the conditions they face, and who benefits from this labor. It combines short text, statistics, and images to make the topic clear and engaging. The goal of the project is to show that AI is not fully automatic and depends on human work that is often invisible.
 
 https://canva.link/c6g1s91ertd6alp
