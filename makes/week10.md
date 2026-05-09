@@ -1,5 +1,6 @@
-# Week 10 – Games & Play
 
+# AI Controls My Day - Games & Play
+## Choice, Control, and Interactive Storytelling
 ## The Artifact
 My artifact is an interactive story made in Twine called AI Controls My Day. The player goes through a normal day and chooses whether to follow AI or ignore it. Each choice leads to different outcomes. The game shows the tradeoff between control and freedom with AI.
 
