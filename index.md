@@ -14,7 +14,9 @@ Some clues are obvious. Others require a closer look.
 
 <h2> About Me </h2>
 
-My name is Chris Rosen. I am senior at Denison University, majoring in Journalism. I live in Fairfeld, Connecticut. I enjoy playing tennis and spending time with my friends.
+My name is Chris Rosen, and I am a senior at Denison University from Fairfield, Connecticut. I am interested in storytelling, journalism, media, and the ways technology shapes how people communicate and create.
+
+Outside the classroom, I enjoy tennis, digital media, and exploring how technology influences everyday life.
 
 ## Introduction
 
