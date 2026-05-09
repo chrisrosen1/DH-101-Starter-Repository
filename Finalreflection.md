@@ -11,3 +11,4 @@ The course also made me think about the systems behind AI. There is hidden human
 Overall, I do not think the debate is really about humans vs. AI. AI depends on humans and cannot replace what makes us human. Being human in the age of AI is about understanding our role in using these tools. AI is powerful, but it still needs human creativity and decisions. What makes us human is how we think, feel, and create meaning, and that is something AI cannot replace.
 
 
+🏠 [Back to Home](https://chrisrosen1.github.io/DH-101-Starter-Repository/)
