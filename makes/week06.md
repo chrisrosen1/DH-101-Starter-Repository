@@ -23,7 +23,20 @@ ChatGPT, on the other hand, is much more useful for literary analysis. It explai
 Overall, Voyant helps me see patterns, but GPT helps me understand meaning.
 
 ## 🤖 AI & Attribution
-- Tools used: Voyant Tools (word frequency and trends visualization); ChatGPT for literary and rhetorical analysis
-- AI prompts (summary): “Provide a literary or rhetorical analysis of this speech.”
-- What AI generated: Voyant Tools generated the word cloud and trends graph showing the most frequent words in the speech and how they appear across the text. ChatGPT generated a literary and rhetorical analysis.
-- What you changed or decided: I decided what speech to analyze and uploaded the text into Voyant. I chose which visualizations to focus on (Cirrus and Trends). I also decided the prompt used for ChatGPT and compared the results from Voyant and GPT to explain how pattern analysis and interpretation differ.
+### Tools Used
+- Voyant Tools - word frequency and trends visualization
+- ChatGPT - literary and rhetorical analysis
+
+### What AI Generated
+- Voyant Tools generated the word cloud and trends graph showing the most frequent words in the speech and how they appear across the text.
+- ChatGPT generated a literary and rhetorical analysis.
+- AI prompt “Provide a literary or rhetorical analysis of this speech.”
+
+### Human Decisions
+- Selected the speech passage to analyze
+- Chose which Voyant visualizations to analyze - Cirrus and Trends
+- Wrote prompts for ChatGPT
+- Compared the differences between data analysis and interpretation
+
+
+
