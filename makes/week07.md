@@ -1,5 +1,6 @@
-# Week 7 – Mapping AI Worlds
 
+# The Hidden Geography of AI
+## Mapping Infrastructure, Power, and Extraction
 ## The Artifact
 This map explores the geography of artificial intelligence by showing where AI decisions are made, where the technology is powered, and where the materials used to build digital systems are extracted. Together, these locations reveal the global infrastructure that supports AI.
 Argument
