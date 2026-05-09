@@ -38,7 +38,7 @@ Overall, this course helped me understand that being human in the age of AI mean
 
  [View my AI Use Statement →](aiuse.md)
 
-##  Sustainability & Ethics 
+## 🌎 Sustainability & Ethics 
 
 [View my Sustainability & Ethics Statement →](makes/Sustainability.md)
 
