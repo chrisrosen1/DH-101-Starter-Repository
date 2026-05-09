@@ -20,8 +20,7 @@ This project connects to ideas from Data Feminism about power and visibility. Dâ
 The project also highlights missing data. Some information about AI infrastructure is difficult to find. Exact data center locations, environmental impacts, and labor conditions are often not publicly available. This absence is meaningful because it limits transparency and accountability.
 In this way, the map acts as a form of counter-mapping. It challenges the dominant story that AI is clean, borderless, and fully automated. Instead, the map shows AI as a system connected to physical places, energy use, and global labor.
 
-
-## Attribution & AI Use
+## ðŸ¤– AI & Attribution
 - Tools used: Google My Maps
 - AI prompts (summary): I eneted the sites into the map and edited the descriptions and the labels.
 - What AI generated: The map.
