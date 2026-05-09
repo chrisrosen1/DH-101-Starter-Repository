@@ -39,7 +39,7 @@ The AI made the images, but I decided how many dogs to show and when to reset th
 loop. My choices shaped the meaning. This project shows how repetition can reduce
 individuality while also creating new meaning.
 
-## Attribution & AI Use
+## 🤖 AI & Attribution
 
 ### Tools Used
 - ChatGPT Image Generator
