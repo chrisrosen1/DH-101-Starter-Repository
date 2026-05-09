@@ -23,11 +23,22 @@ AI worked as a support tool for me. I used it to brainstorm ideas and understand
 
 The hardest part was building the structure. I had to make sure every choice connected correctly. If I did this again, I would add more choices and improve the design to make it more engaging.
 
+## 🤖 AI & Attribution
+### Tools Used
+- Twine
+- ChatGPT
 
-
-## Attribution & AI Use
-- Tools used: Twine and ChatGPT
+### What AI Generated
+- Brainstorming support
+- Minor troubleshooting help
 - AI prompts (summary): My game is based on Concept C: A Day in the Life, where AI assists or interferes with everyday decisions. In Twine, I created passages and connected them using links to build a story. I used choices to let the player decide whether to follow AI or ignore it throughout the day. Each choice leads to a different path and ending.
 
-- What AI generated: AI helped to fix errors and give me ideas. Twine built the story using my passages.
-- What you changed or decided: I decided the final story, choices, and endings. I changed and shaped any ideas to match my own concept. I made sure the game focused on control and freedom with AI.
+### Human Decisions
+- Wrote all story passages
+- Designed all choices and endings
+- Built the branching narrative structure
+- Developed the central theme about AI, freedom, and control
+
+
+
+
