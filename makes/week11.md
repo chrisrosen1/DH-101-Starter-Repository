@@ -18,8 +18,20 @@ For example, in my research I learned about “ghost workers,” who complete sm
 
 Most of the profit from AI goes to large technology companies like Amazon, Google, and Microsoft. These companies benefit from cheap labor while controlling the systems and technologies. This creates an imbalance where many people do the work, but a small number of companies gain the most profit. Overall, this shows that AI is not just technology, but a system built on human labor that is often invisible.
 
-## Attribution & AI Use
-- Tools used: Canva
-- AI prompts (summary): I did not use AI to generate any content for this project. I used Canva to design the slides and organize the layout. All research, writing, and decisions were my own.
-- What AI generated: AI/Canva desgned the slides and organized the layout.
-- What you changed or decided: I created the content on the slides. I did all the research and writing.
+## 🤖 AI & Attribution
+### Tools Used
+- Canva
+
+### What AI Generated
+- Canva-assisted design/layout suggestions
+
+### Human Decisions
+- Conducted all research
+- Wrote all text and analysis
+- Organized the sections
+- Selected statistics and images
+- Designed the visual presentation and argument
+
+
+
+
