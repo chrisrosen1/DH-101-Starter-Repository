@@ -1,7 +1,7 @@
 
 # Same Chair, Different Worlds
 ## Generative Systems & Human Choice
-## The Artifact
+## 🎨 The Artifact
 This artifact is a set of AI-generated images created using DALL·E 3. Each image shows a single chair placed in a different location, following the same prompt structure. I used one base prompt and changed only the setting to create variation. I then selected the most creative and interesting images to include as my final outputs.
 <img width="1536" height="1024" alt="chair1" src="https://github.com/user-attachments/assets/db5b0e34-0f39-43d2-a4ad-bc77b4aff504" />
 <img width="1536" height="1024" alt="chair21" src="https://github.com/user-attachments/assets/61ffc02b-afbe-4e89-95f7-cc2e2d216dbe" />
