@@ -3,9 +3,13 @@
 <h1>Chris Rosen — DH 101</h1>
 <h2>Welcome</h2>
 
-Hello, this site documents my work from DH 101. 
+Welcome to my digital scavenger hunt.
 
-Explore this site like a scavenger hunt. Each project reveals something different about AI. Follow the clues and see what you discover.
+Each project on this site explores a different question about artificial intelligence, creativity, identity, labor, and what it means to remain human in a world increasingly shaped by AI.
+
+Some clues are obvious. Others require a closer look.
+
+Explore this site like a scavenger hunt. 
 
 <h2> About Me </h2>
 
