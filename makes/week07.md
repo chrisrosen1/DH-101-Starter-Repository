@@ -21,7 +21,18 @@ The project also highlights missing data. Some information about AI infrastructu
 In this way, the map acts as a form of counter-mapping. It challenges the dominant story that AI is clean, borderless, and fully automated. Instead, the map shows AI as a system connected to physical places, energy use, and global labor.
 
 ## 🤖 AI & Attribution
-- Tools used: Google My Maps
-- AI prompts (summary): I eneted the sites into the map and edited the descriptions and the labels.
-- What AI generated: The map.
-- What you changed or decided: I chose which sites to use, the descriptions, the color coding. 
+### Tools Used
+- Google My Maps
+
+### What AI Generated
+- Map visualizations and geographic plotting tools
+
+### Human Decisions
+- Chose all mapped locations
+- Organized the map into layers
+- Wrote descriptions and labels
+- Selected color coding
+- Built the argument connecting infrastructure, extraction, and AI
+
+
+
