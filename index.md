@@ -47,3 +47,5 @@ Overall, this course helped me understand that being human in the age of AI mean
 [View my Accessibility Statement →](accessibility.md)
 
 ## 🎯 Final Reflective Essay
+
+[View my Final Reflective Essay →](Finalreflection.md)
