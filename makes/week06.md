@@ -38,5 +38,6 @@ Overall, Voyant helps me see patterns, but GPT helps me understand meaning.
 - Wrote prompts for ChatGPT
 - Compared the differences between data analysis and interpretation
 
+🗂️ [Back to the Collection](makes.md)
 
 
