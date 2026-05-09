@@ -1,6 +1,4 @@
 
-  
-<h1>Chris Rosen — DH 101</h1>
 
 ## Human Creativity in the Age of AI
 
