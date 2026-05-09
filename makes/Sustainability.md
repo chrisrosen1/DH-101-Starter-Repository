@@ -45,3 +45,4 @@ Who Is Responsible
 
 Responsibility is shared, but not equally. Individuals play a role through their usage, but companies and developers have much more control over the overall environmental impact. Real change depends on both, but especially on larger systems.
 
+🏠 [Back to Home](https://chrisrosen1.github.io/DH-101-Starter-Repository/)
