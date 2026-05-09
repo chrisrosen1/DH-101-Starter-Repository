@@ -1,5 +1,6 @@
-# Week 6 – Text & Distant Reading
 
+# Reading Like a Machine
+## Patterns, Meaning, and AI Interpretation
 ## The Artifact
 For this assignment, I analyzed the first story from Steve Jobs’ 2005 Stanford Commencement Speech using two different tools: Voyant Tools and ChatGPT. In Voyant, I uploaded the text and explored the Cirrus word cloud and the Trends visualization to see which words appeared most often and how their frequency changed throughout the speech. 
 
