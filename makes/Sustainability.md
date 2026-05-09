@@ -1,4 +1,9 @@
 # Sustainability & Ethics
+
+To reduce the environmental impact of my site, I kept it lightweight and simple. I avoided adding unnecessary features, large files, or embedded content that would increase loading time and energy use. I also used a limited number of images and kept them simple rather than high-resolution or overly complex.
+
+By focusing on clear content and minimal design, my site requires fewer resources to load and run. This approach reflects an understanding that even small design choices can contribute to reducing the environmental impact of digital technologies.
+
 ## My Research
 AI may feel like a simple and low-impact tool, but it depends on large systems that use significant amounts of energy. One of the biggest things I found is that training models like GPT-3 requires a lot of electricity, about 1,287 MWh, and produces around 552 tons of CO2. These numbers are hard to understand on their own, so comparing them to things like cars and flights made the impact more clear.
 
