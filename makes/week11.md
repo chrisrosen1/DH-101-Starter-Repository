@@ -11,7 +11,7 @@ How did you make this? I created this project as a digital zine using Canva. I f
 What tools did you use? I used Canva.
 What decisions did you make? I made all of the decisions about what content to include and how to present it on each slide. I decided how to organize the information into sections and what points were most important to highlight. I also chose the wording to keep the text clear and easy to understand. In addition, I selected the images and layout for each slide, trying to match the visuals to the ideas as best as possible.
 
-## Reflection
+## 🧠 My Take
 The invisible work of AI is done by many different people around the world, including contract workers, freelancers, and laborers who support systems through tasks like content moderation, data labeling, transcription, and data cleaning. These workers play a key role in making AI systems function, but their labor is often hidden from users. Because of this, AI can appear fully automatic, even though it depends heavily on human effort.
 
 For example, in my research I learned about “ghost workers,” who complete small tasks that help train AI systems. These workers label images, review content, and organize data so that AI can learn and improve. Even though their work is essential, it is often low-paid and not recognized. Many workers are located in different parts of the world and may rely on this work for income, but they have limited job security and protections.
