@@ -7,7 +7,7 @@ My artifact is an interactive story made in Twine called AI Controls My Day. The
 
 https://chrisrosen1.github.io/DH-101-Starter-Repository/mygame.html
 
-## Process Notes
+## ⚙️ The Process
 How did you make this? I made this using Twine by creating passages and linking them together. I wrote the story and added choices that lead to different paths and endings. I tested the game and fixed links to make sure everything worked correctly.
 What tools did you use? I used Twine to build the game. I also used ChatGPT a little to help with ideas and fixing small errors.
 What decisions did you make? I decided the story, the choices, and the different endings. I chose to focus on whether the player follows AI or ignores it. I also decided how the story would show the tradeoff between control and freedom.
