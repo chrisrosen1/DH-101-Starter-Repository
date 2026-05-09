@@ -6,7 +6,7 @@ This project is a digital zine created using Canva slides. It explores the hidde
 
 https://canva.link/c6g1s91ertd6alp
 
-## Process Notes
+## ⚙️ The Process
 How did you make this? I created this project as a digital zine using Canva. I first researched the topic using class readings and outside sources, then organized my ideas into sections like the problem, the people, and the conditions. After that, I drafted short text for each slide and focused on keeping the language clear and easy to understand. I used Canva to design the slides, choosing simple layouts and adding images to support the ideas.
 What tools did you use? I used Canva.
 What decisions did you make? I made all of the decisions about what content to include and how to present it on each slide. I decided how to organize the information into sections and what points were most important to highlight. I also chose the wording to keep the text clear and easy to understand. In addition, I selected the images and layout for each slide, trying to match the visuals to the ideas as best as possible.
