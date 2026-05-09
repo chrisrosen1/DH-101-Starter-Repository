@@ -12,10 +12,13 @@ How did you make this? I created a network map with Kumu showing the apps I use,
 What tools did you use? I used Kumu to build the network visualization and then took a screenshot of the map and added it to my GitHub site.
 What decisions did you make? I decided to place myself at the center to show how my activity connects the platforms. I grouped the apps around me and placed the companies and data further out so the structure of the network would be easier to understand. I also used colors and labels to distinguish between apps, companies, and data.
 
-## Reflection
+## 🧠 My Take
 The most central node in my network is “Me.” Most of the connections begin with the platforms that I use every day, such as ChatGPT, Gmail, Google Search, Google Docs, YouTube, Instagram, Amazon, and Spotify. This shows that the digital ecosystem is organized around users and our activity. My actions, searching for information, sending emails, watching videos, or shopping online, create the connections that allow companies to collect and store my data.
+
 However, the network also shows that Google is another very central node. Several of the platforms I use most often are owned by Google, including Gmail, Google Search, Google Docs, and YouTube. While these apps often feel separate when I use them, the network shows that many of them connect back to the same company. This means that a large amount of my digital activity and personal data flows through Google. Before creating the network, I did not fully realize how many of the tools I regularly use are connected to one company. Seeing this concentration of power around Google was both surprising and a little unsettling.
+
 Several clusters appear in the network. One major cluster is the Google ecosystem, which includes Gmail, Google Docs, Google Search, and YouTube, along with the types of data connected to those services, such as search history and email data. Another cluster is social media, where Instagram connects to Meta. A third cluster involves shopping and entertainment, including Amazon and Spotify, which collect information about shopping habits and music preferences.
+
 At the same time, the network also shows what is missing. The visualization focuses on apps, companies, and data, but it does not show the people and infrastructure behind these systems. Workers, data centers, energy use, and environmental impacts are all part of the system but remain invisible in this network.
 
 
