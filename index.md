@@ -45,10 +45,6 @@ Overall, this course helped me understand that being human in the age of AI mean
 
 ### Sustainability
 
-To reduce the environmental impact of my site, I kept it lightweight and simple. I avoided adding unnecessary features, large files, or embedded content that would increase loading time and energy use. I also used a limited number of images and kept them simple rather than high-resolution or overly complex.
-
-By focusing on clear content and minimal design, my site requires fewer resources to load and run. This approach reflects an understanding that even small design choices can contribute to reducing the environmental impact of digital technologies.
-
 [Sustainability & Ethics ](makes/Sustainability.md)
 
 [♿ Accessibility Statement](accessibility.md)
