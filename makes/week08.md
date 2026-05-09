@@ -21,9 +21,19 @@ Several clusters appear in the network. One major cluster is the Google ecosyste
 
 At the same time, the network also shows what is missing. The visualization focuses on apps, companies, and data, but it does not show the people and infrastructure behind these systems. Workers, data centers, energy use, and environmental impacts are all part of the system but remain invisible in this network.
 
+## 🤖 AI & Attribution
+### Tools Used
+- Kumu.ai
 
-## Attribution & AI Use
-- Tools used: Kumu.ai
-- AI prompts (summary): No AI prompts were used to create the network in Kumu. The nodes, connections, labels, and layout were created manually.
-- What AI generated: Kumu generated the visual network map based on the nodes and connections I entered. I manually added the nodes, relationships, labels, colors, and layout that structure the network.
-- What you changed or decided: I chose the Elements, the connections, the descriptions, the placements, and the color design.
+### What AI Generated
+- Visual network rendering based on manually entered data and relationships
+
+### Human Decisions
+- Selected all nodes and relationships
+- Designed the structure and layout
+- Organized clusters
+- Chose labels and colors
+- Determined how the network represented platform power and data collection
+
+
+
