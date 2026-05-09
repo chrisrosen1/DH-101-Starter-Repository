@@ -53,7 +53,7 @@ individuality while also creating new meaning.
 - Sequence of frames
 - Loop structure
 - Overall concept and interpretation
-- 
+  
 AI prompts (summary):
 -
 Frame 1 Prompt: Create a minimalist image of one small white dog sitting in the center of a plain light gray
