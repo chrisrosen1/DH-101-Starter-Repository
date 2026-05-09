@@ -39,6 +39,6 @@ The hardest part was building the structure. I had to make sure every choice con
 - Built the branching narrative structure
 - Developed the central theme about AI, freedom, and control
 
-
+🗂️ [Back to the Collection](makes.md)
 
 
