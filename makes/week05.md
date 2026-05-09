@@ -15,7 +15,7 @@ How did you make this? I created the images using ChatGPT Image Generator by wri
 What tools did you use? I used ChatGPT Image Generator to create the images and Canva to arrange the frames, adjust the timing, and export the final GIF.
 What decisions did you make? I decided how many dogs would appear in each frame and how the repetition would grow from one dog to many. I also chose the minimalist style, the gray background, and the loop that resets back to one dog to emphasize repetition and remix culture.
 
-## My Take
+## 🧠 My Take
 
 This GIF shows one small white dog that slowly multiplies until the screen is full of
 identical dogs. At first, the single dog feels special. It looks like one unique animal. When a
