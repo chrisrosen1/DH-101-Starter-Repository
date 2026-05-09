@@ -1,7 +1,7 @@
 # Infinite Copies
 ## Remix Culture & Repetition
 
-## The Make
+## 🎨 The Artifact
 The GIF begins with one small white dog sitting alone in the center of a plain light gray
 background. In the second frame, a second identical dog appears next to it. In the third frame, the
 screen fills with many identical copies of the same dog arranged in a grid pattern. In the final
