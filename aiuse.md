@@ -11,3 +11,5 @@ A third example was my GIF project. I used ChatGPT’s image generator to create
 These experiences helped me understand the limits and biases of AI. AI systems rely on existing data, which means they can reflect biases and produce narrow or predictable results. In the selfie project, the AI created a more “perfect” and generic version of a person, which raises concerns about representation and unrealistic standards. AI can also produce outputs that sound or look convincing but lack deeper meaning or true creativity. Because of this, it is important to use AI critically and not rely on it completely.
 
 Overall, I used AI as a tool to support my work, not replace it. This course helped me understand that human input, judgment, and creativity are still necessary to produce meaningful and responsible outcomes when working with AI.
+
+🏠 [Back to Home](https://chrisrosen1.github.io/DH-101-Starter-Repository/)
