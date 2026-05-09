@@ -9,8 +9,6 @@ Each project on this site explores a different question about artificial intelli
 
 Some clues are obvious. Others require a closer look.
 
-Explore this site like a scavenger hunt. 
-
 <h2> About Me </h2>
 
 My name is Chris Rosen. I am a senior at Denison University. I live in Fairfeld, Connecticut. I enjoy playing tennis and spending time with my friends.
