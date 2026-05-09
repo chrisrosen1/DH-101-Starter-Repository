@@ -42,7 +42,7 @@ Overall, this course helped me understand that being human in the age of AI mean
 
 [View my Sustainability & Ethics Statement →](makes/Sustainability.md)
 
-### ♿ Accessibility
+## ♿ Accessibility
 
 [View my Accessibility Statement →](accessibility.md)
 
