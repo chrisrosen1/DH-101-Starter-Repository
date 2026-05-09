@@ -14,7 +14,7 @@ Some clues are obvious. Others require a closer look.
 
 <h2> About Me </h2>
 
-My name is Chris Rosen. I am a senior at Denison University. I live in Fairfeld, Connecticut. I enjoy playing tennis and spending time with my friends.
+My name is Chris Rosen. I am senior at Denison University, majoring in Journalism. I live in Fairfeld, Connecticut. I enjoy playing tennis and spending time with my friends.
 
 ## Introduction
 
