@@ -55,7 +55,7 @@ individuality while also creating new meaning.
 - Overall concept and interpretation
   
 ### AI prompts:
--
+
 Frame 1 Prompt: Create a minimalist image of one small white dog sitting in the center of a plain light gray
 background. The dog should face forward with a neutral expression. Simple composition. Clean
 lighting. Keep this exact same dog design in all images.
