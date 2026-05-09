@@ -54,22 +54,21 @@ individuality while also creating new meaning.
 - Loop structure
 - Overall concept and interpretation
 - 
-- Tools used: ChatGPT Image Generator
-- AI prompts (summary): Frame 1 Prompt
-Create a minimalist image of one small white dog sitting in the center of a plain light gray
+- AI prompts (summary):
+-
+Frame 1 Prompt: Create a minimalist image of one small white dog sitting in the center of a plain light gray
 background. The dog should face forward with a neutral expression. Simple composition. Clean
 lighting. Keep this exact same dog design in all images.
-Frame 2 Prompt
-Create the exact same minimalist image of the small white dog on the plain light gray
+
+Frame 2 Prompt: Create the exact same minimalist image of the small white dog on the plain light gray
 background. Now add a second identical copy of the dog next to the first one. Keep spacing even
 and composition clean. The dogs must look identical.
-Frame 3 Prompt
-Create the exact same minimalist image, but now the background is filled with many identical
+
+Frame 3 Prompt: Create the exact same minimalist image, but now the background is filled with many identical
 copies of the same small white dog, evenly spaced in a grid pattern. All dogs must look exactly
 the same.
-Frame 4 Prompt (Loop Reset)
-Create the original minimalist image again with only one small white dog centered on the plain
+
+Frame 4 Prompt (Loop Reset): Create the original minimalist image again with only one small white dog centered on the plain
 light gray background. Same lighting and composition as frame 1.
-- What AI generated: All dog images used in the four frames.
-- What you changed or decided: I decided how many dogs would appear in each frame. I arranged the images in sequence. I
-controlled the timing and created the looping structure.
+
+
