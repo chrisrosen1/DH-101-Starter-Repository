@@ -13,10 +13,13 @@ How did you make this? I copied the first story from Steve Jobs’ 2005 Stanford
 What tools did you use? I used Voyant Tools to analyze word frequency and visualize patterns in the text, and ChatGPT to generate a literary and rhetorical analysis of the speech.
 What decisions did you make? I decided which part of the speech to analyze and which Voyant visualizations to focus on, including Cirrus and Trends. I also chose the prompt used for ChatGPT and decided how to compare the pattern-based analysis from Voyant with the interpretive analysis from ChatGPT.
 
-## Reflection
+## 🧠 My Take
 Voyant was visually interesting and offered a different way to analyze the text through charts and visualizations. I used the Cirrus and Trends views. Cirrus created a word cloud of the most frequent words, and Trends showed a line graph of how often certain words appeared throughout the speech. These visualizations made repetition and structure easy to see.
+
 However, I do not think Voyant is very useful for literary analysis. It shows patterns, but it does not explain meaning. It can show that words like “college” and “dropped” appear often. But it cannot explain why those words matter. It does not interpret the metaphor of “connecting the dots.” It also does not explain how the story persuades the audience. Voyant treats the speech as data, not as a meaningful narrative.
+
 ChatGPT, on the other hand, is much more useful for literary analysis. It explains themes, tone, and persuasive strategies in a clear way. It connects ideas and interprets metaphors. While GPT does not show how it reaches its conclusions, it produces analysis that feels closer to what a human reader would write.
+
 Overall, Voyant helps me see patterns, but GPT helps me understand meaning.
 
 
