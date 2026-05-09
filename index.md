@@ -35,6 +35,8 @@ Overall, this course helped me understand that being human in the age of AI mean
 
 ##  Sustainability and Ethics 
 
+[View my Sustainability and Ethics Statement →](accessibility.md)
+
 ### ♿ Accessibility
 
 I designed this site to be clear, simple, and easy to navigate for different users. I used headings to organize each page so content is structured and easy to follow. I also kept my layout consistent across pages, which helps users understand where they are and how to move through the site.
