@@ -32,11 +32,13 @@ The main parameter I controlled was the setting or environment of the chair. For
 
 In total, I generated 21 images using this system. Each image followed the same format but changed the location. This created a wide range of results. This process showed me that a simple rule can act as a generator and produce many different outputs while still staying organized and intentional.
 
-
-## Reflection
+## 🧠 My Take
 Creativity feels different when AI can generate endless images. It is less about coming up with one perfect idea and more about making choices. AI can produce a lot very quickly, but it does not know what actually matters or what is interesting. I realized that my role was not just to generate images, but to decide which ones were worth keeping.
+
 At first, I thought I was doing this assignment wrong. I expected to build a fully automated bot, but my generator still required me to manually enter each prompt. Over time, I understood that my rule was the generator. I used one prompt and changed only the location each time, which gave me a clear and organized system.
+
 I also noticed that many of the images started to look very similar. They followed the same pattern and did not always feel that creative. Because of that, I started experimenting with more unusual locations, like a burning room or a giant hourglass. That made a big difference and helped me get more interesting results.
+
 I decided what was “good” based on what stood out the most. I looked for images that felt different, had a strong mood, or made me stop and look at them longer. This process showed me that even though AI can generate endlessly, creativity still comes from human decisions and experimenting with new ideas.
 
 ## Attribution & AI Use
