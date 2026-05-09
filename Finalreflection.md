@@ -1,4 +1,4 @@
-What does it mean to be human in the age of AI?
+# What does it mean to be human in the age of AI?
 
 I learned a lot about the relationship between humans and AI over the semester. At the beginning of the course, I did not really understand that relationship or think about it when I was using AI. I mostly focused on the negative aspects and saw it as something that could just do work for you.
 
