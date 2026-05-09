@@ -1,7 +1,7 @@
 
 # The Hidden Geography of AI
 ## Mapping Infrastructure, Power, and Extraction
-## The Artifact
+## 🎨 The Artifact
 This map explores the geography of artificial intelligence by showing where AI decisions are made, where the technology is powered, and where the materials used to build digital systems are extracted. Together, these locations reveal the global infrastructure that supports AI.
 Argument
 This map argues that artificial intelligence depends on a global network of physical locations. While major technology companies that develop AI are concentrated in a few regions, the infrastructure and natural resources that support these systems are distributed across many parts of the world.
