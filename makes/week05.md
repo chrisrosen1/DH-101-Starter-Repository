@@ -71,4 +71,4 @@ the same.
 Frame 4 Prompt (Loop Reset): Create the original minimalist image again with only one small white dog centered on the plain
 light gray background. Same lighting and composition as frame 1.
 
-
+🗂️ [Back to the Collection](makes.md)
