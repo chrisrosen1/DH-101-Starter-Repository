@@ -34,5 +34,5 @@ In this way, the map acts as a form of counter-mapping. It challenges the domina
 - Selected color coding
 - Built the argument connecting infrastructure, extraction, and AI
 
-
+🗂️ [Back to the Collection](makes.md)
 
