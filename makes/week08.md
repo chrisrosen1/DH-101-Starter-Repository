@@ -35,5 +35,5 @@ At the same time, the network also shows what is missing. The visualization focu
 - Chose labels and colors
 - Determined how the network represented platform power and data collection
 
-
+🗂️ [Back to the Collection](makes.md)
 
