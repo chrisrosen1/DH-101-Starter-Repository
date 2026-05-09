@@ -1,7 +1,7 @@
 
 # Reading Like a Machine
 ## Patterns, Meaning, and AI Interpretation
-## The Artifact
+## 🎨 The Artifact
 For this assignment, I analyzed the first story from Steve Jobs’ 2005 Stanford Commencement Speech using two different tools: Voyant Tools and ChatGPT. In Voyant, I uploaded the text and explored the Cirrus word cloud and the Trends visualization to see which words appeared most often and how their frequency changed throughout the speech. 
 
 I then asked ChatGPT to provide a literary and rhetorical analysis of the same passage. ChatGPT generated a written analysis based o my prompt. The artifact includes both the Voyant visualizations and the GPT analysis in order to compare how each tool approaches the same text.
