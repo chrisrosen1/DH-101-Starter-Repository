@@ -5,6 +5,7 @@
 My artifact is an interactive story made in Twine called AI Controls My Day. The player goes through a normal day and chooses whether to follow AI or ignore it. Each choice leads to different outcomes. The game shows the tradeoff between control and freedom with AI.
 
 [🎮 Play the Game](https://chrisrosen1.github.io/DH-101-Starter-Repository/mygame.html)
+
 https://chrisrosen1.github.io/DH-101-Starter-Repository/mygame.html
 
 ## ⚙️ The Process
