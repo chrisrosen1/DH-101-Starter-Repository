@@ -41,12 +41,22 @@ I also noticed that many of the images started to look very similar. They follow
 
 I decided what was “good” based on what stood out the most. I looked for images that felt different, had a strong mood, or made me stop and look at them longer. This process showed me that even though AI can generate endlessly, creativity still comes from human decisions and experimenting with new ideas.
 
-## Attribution & AI Use
-Attribution & AI Use Statement
-Tools Used: DALL·E 3
-Role of Tool: Used to generate images based on text prompts following a consistent structure and rule.
-My Contribution: I manually entered the base prompt and developed the rule of changing only the location. I wrote all of the prompts, generated the images, and selected the final outputs. I also decided which images were the most creative and interesting.
-Notes: The idea, system, and curation process are my own work. The AI generated the images, but I controlled how they were created and which ones were chosen.
+## 🤖 AI & Attribution
+### Tools Used
+- DALL·E 3
+
+### What AI Generated
+- All chair images based on text prompts following a consistent structure and rule.
+
+### Human Decisions
+- Created the prompt structure
+- Developed the rule-based system
+- Chose the environments
+- Curated the strongest outputs
+- Determined which images felt meaningful or visually interesting
+
+
+
 
 
 
