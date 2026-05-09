@@ -3,6 +3,7 @@
 <h1>Chris Rosen — DH 101</h1>
 
 ## Human Creativity in the Age of AI
+
 <h2>Welcome</h2>
 
 Welcome to my digital scavenger hunt.
