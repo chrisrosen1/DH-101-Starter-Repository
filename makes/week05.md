@@ -54,7 +54,7 @@ individuality while also creating new meaning.
 - Loop structure
 - Overall concept and interpretation
   
-### AI prompts:
+### AI prompts
 
 Frame 1 Prompt: Create a minimalist image of one small white dog sitting in the center of a plain light gray
 background. The dog should face forward with a neutral expression. Simple composition. Clean
