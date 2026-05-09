@@ -1,4 +1,5 @@
 # Accessibility Statement
+### ♿ Accessibility
 This website was created as part of AHI 101: Critical Making in the Age of AI.
 Accessibility improvements include:
 - Alt text added to images so screen readers can describe visual content.
