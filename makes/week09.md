@@ -25,9 +25,11 @@ This artifact is a set of AI-generated images created using DALL·E 3. Each imag
 <img width="1536" height="1024" alt="chair3" src="https://github.com/user-attachments/assets/cef12b4c-97f8-4887-b1ab-9b9d853fa2d3" />
 <img width="1536" height="1024" alt="chair2" src="https://github.com/user-attachments/assets/7f293cec-4cea-4c32-9065-a8c23cef51e6" />
 
-## Process Notes
+## ⚙️ The Process
 I built my generator using DALL·E 3 by starting with one single base prompt and then creating a rule for changing it. My base prompt was “a single chair in a room, realistic.” The rule I chose was to change only the location of the chair each time, while keeping everything else the same. This rule was my generator, because it created a clear and repeatable system for producing new images. Even though I entered each prompt manually, the rule guided the process and made it consistent rather than random.
+
 The main parameter I controlled was the setting or environment of the chair. For each image, I placed the chair in a different location, such as in a forest, underwater, on the moon, or in Africa surrounded by animals. I also kept the style consistent by using the word “realistic” in every prompt so that all of the images had a similar look and feel. By controlling both the structure of the prompt and the style, I made sure the outputs were connected but still varied.
+
 In total, I generated 21 images using this system. Each image followed the same format but changed the location. This created a wide range of results. This process showed me that a simple rule can act as a generator and produce many different outputs while still staying organized and intentional.
 
 
