@@ -13,4 +13,5 @@ I included descriptive link text, such as “Begin the scavenger hunt” and “
 
 I avoided clutter and kept the design simple, which improves readability and usability. Since the site uses a basic GitHub Pages theme, it also maintains good color contrast by default, making the text easier to read.
 
+
 🏠 [Back to Home](https://chrisrosen1.github.io/DH-101-Starter-Repository/)
