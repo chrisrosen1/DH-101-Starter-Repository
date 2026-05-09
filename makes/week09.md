@@ -55,7 +55,7 @@ I decided what was “good” based on what stood out the most. I looked for ima
 - Curated the strongest outputs
 - Determined which images felt meaningful or visually interesting
 
-
+🗂️ [Back to the Collection](makes.md)
 
 
 
