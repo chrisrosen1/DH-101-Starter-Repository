@@ -21,14 +21,7 @@ Session #: 27<br>
 Auto-Analysis: Enabled
 </p>
 
-MindSync™ Mental Health System
 
-Session Log Export
-
-Confidential Record – Authorized Access Only
-
---------------------------------------------------
-Date: April 18, 2040
 
 Session Type: AI-Assisted Therapy
 
