@@ -10,6 +10,7 @@ This project is a digital zine created using Canva slides. It explores the hidde
 
 ## 🖼️ Zine Slides
 
+![Slide 1](https://github.com/chrisrosen1/DH-101-Starter-Repository/raw/main/1.jpg)
 ![Slide 1]([slide1.jpg](https://github.com/chrisrosen1/DH-101-Starter-Repository/blob/main/1.jpg))
 ![Slide 2](slide2.jpg)
 ![Slide 3](slide3.jpg)
