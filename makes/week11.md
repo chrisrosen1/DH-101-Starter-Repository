@@ -5,6 +5,14 @@
 This project is a digital zine created using Canva slides. It explores the hidden labor behind AI, focusing on the people who train and maintain these systems. The zine is organized into sections that explain the problem, the workers involved, the conditions they face, and who benefits from this labor. It combines short text, statistics, and images to make the topic clear and engaging. The goal of the project is to show that AI is not fully automatic and depends on human work that is often invisible.
 
 https://canva.link/c6g1s91ertd6alp
+<div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAHGqoEhtxQ/9dhFDmFhSv8MYRXEvtXScg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAHGqoEhtxQ&#x2F;9dhFDmFhSv8MYRXEvtXScg&#x2F;view?utm_content=DAHGqoEhtxQ&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Digital AI Make 11</a> by Christopher Rosen
 
 ## ⚙️ The Process
 How did you make this? I created this project as a digital zine using Canva. I first researched the topic using class readings and outside sources, then organized my ideas into sections like the problem, the people, and the conditions. After that, I drafted short text for each slide and focused on keeping the language clear and easy to understand. I used Canva to design the slides, choosing simple layouts and adding images to support the ideas.
