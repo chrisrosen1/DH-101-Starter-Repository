@@ -11,8 +11,7 @@ https://canva.link/c6g1s91ertd6alp
   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
     src="https://www.canva.com/design/DAHGqoEhtxQ/9dhFDmFhSv8MYRXEvtXScg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAHGqoEhtxQ&#x2F;9dhFDmFhSv8MYRXEvtXScg&#x2F;view?utm_content=DAHGqoEhtxQ&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Digital AI Make 11</a> by Christopher Rosen
+
 
 ## ⚙️ The Process
 How did you make this? I created this project as a digital zine using Canva. I first researched the topic using class readings and outside sources, then organized my ideas into sections like the problem, the people, and the conditions. After that, I drafted short text for each slide and focused on keeping the language clear and easy to understand. I used Canva to design the slides, choosing simple layouts and adding images to support the ideas.
