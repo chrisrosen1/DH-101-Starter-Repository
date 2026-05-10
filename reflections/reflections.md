@@ -1,6 +1,8 @@
-## Reflections
 
-You found the clues—now see what I learned each week.
+# Weekly Reflections
+## How My Thinking About AI Changed
+
+These reflections document how my understanding of artificial intelligence evolved throughout the semester. Each week introduced new questions about creativity, labor, ethics, infrastructure, human connection, and the future of AI.
 
 - [Week 1 – Reverse Engineering](week01.md)
 - [Week 3 – AI Selfie](week03.md)
