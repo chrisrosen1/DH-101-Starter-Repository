@@ -23,7 +23,6 @@ These reflections document how my understanding of artificial intelligence evolv
 - [Week 11 – AI & Labor](week11.md)
 - [Week 12 – AI & Ecology](week12.md)
 - [Week 13 – Futures of AI & Humanity](week13.md)
-
-🧠 [Final Thougts: What does it mean to be human in the age of AI?](week14.md) 
+- [Week 14 - What does it mean to be human in the age of AI?](week14.md)
 
 🏠 [Back to Home](https://chrisrosen1.github.io/DH-101-Starter-Repository/)
