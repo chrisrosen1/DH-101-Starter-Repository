@@ -18,9 +18,13 @@ What decisions did you make? I eneted the sites into the map and edited the desc
 
 ## 🧠 My Take
 This map argues that artificial intelligence should not be understood as something that exists only in the “cloud.” AI is often described as invisible, automated, and purely digital. My map challenges that idea. Instead, it shows AI as a system that depends on physical places, infrastructure, and global networks.
+
 The main decision I made was what to include in the map. I chose to map corporate headquarters, data centers, and mining regions. These locations show where decisions are made, where AI systems are powered, and where the materials for digital technology come from. Seeing these places together reveals patterns of power. Control and decision-making are concentrated in a few technology hubs, while extraction and environmental impacts occur in other parts of the world.
+
 This project connects to ideas from Data Feminism about power and visibility. D’Ignazio and Klein argue that data and maps are not neutral. The choices we make about what to show shape how people understand the world. By focusing on infrastructure and resource extraction, the map draws attention to parts of AI that are usually hidden.
+
 The project also highlights missing data. Some information about AI infrastructure is difficult to find. Exact data center locations, environmental impacts, and labor conditions are often not publicly available. This absence is meaningful because it limits transparency and accountability.
+
 In this way, the map acts as a form of counter-mapping. It challenges the dominant story that AI is clean, borderless, and fully automated. Instead, the map shows AI as a system connected to physical places, energy use, and global labor.
 
 ## 🤖 AI & Attribution
