@@ -10,7 +10,9 @@ I then asked ChatGPT to provide a literary and rhetorical analysis of the same p
 
 ## ⚙️ The Process
 How did you make this? I copied the first story from Steve Jobs’ 2005 Stanford Commencement Speech and uploaded the text into Voyant Tools. I used the Cirrus word cloud and the Trends graph to examine which words appeared most often and where they appeared in the speech. I then asked ChatGPT to provide a literary and rhetorical analysis of the same passage and compared the results.
+
 What tools did you use? I used Voyant Tools to analyze word frequency and visualize patterns in the text, and ChatGPT to generate a literary and rhetorical analysis of the speech.
+
 What decisions did you make? I decided which part of the speech to analyze and which Voyant visualizations to focus on, including Cirrus and Trends. I also chose the prompt used for ChatGPT and decided how to compare the pattern-based analysis from Voyant with the interpretive analysis from ChatGPT.
 
 ## 🧠 My Take
