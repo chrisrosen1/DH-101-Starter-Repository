@@ -8,8 +8,9 @@ This map argues that artificial intelligence depends on a global network of phys
 
 [Mapping AI Worlds – Interactive Map](https://www.google.com/maps/d/u/0/edit?mid=1lbk5gG4c7nAMuStasCZQFb2TgvxvUdk&ll=4.719762809064605%2C0&z=2)
 
-![Mapping AI Worlds](https://github.com/chrisrosen1/DH-101-Starter-Repository/blob/main/AIMap.png)
+![Mapping AI Worlds](https://github.com/chrisrosen1/DH-101-Starter-Repository/blob/main/MapofAI.png)
 
+https://github.com/chrisrosen1/DH-101-Starter-Repository/blob/main/MapofAI.png
 ## ⚙️ The Process
 How did you make this? I built a digital map using Goggle My Maps. I created 3 layers, Corporate Headquarters, Data Centers, and Mining Sites. I added descriptions of each site and used the map to help make my argument.
 What tools did you use? Google My Maps
