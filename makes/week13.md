@@ -12,7 +12,7 @@ This artifact is meant to feel realistic and believable, while also raising ques
 
 <h2>MindSync™ Mental Health System</h2>
 
-> **Confidential Record — Authorized Access Only**  
+```> **Confidential Record — Authorized Access Only**  
 > Date: April 18, 2040  
 > System Version: MindSync v5.2
 > Session #: 27 
