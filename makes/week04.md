@@ -59,6 +59,7 @@ The student types angrily and says, “I am rewriting ALL of this.”
 Panel 5:
 The student smiles at the screen and says, “Okay, now it sounds like me.” The computer replies,
 “…I did all of the emotional work.”
+
 Panel 6:
 The student faces the reader and says, “AI is helpful… but I still don’t trust it.” The computer
 responds, “I am listening and taking note of this.”
