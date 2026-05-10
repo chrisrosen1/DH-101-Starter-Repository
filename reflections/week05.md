@@ -8,3 +8,4 @@ AI changes what authorship even means. Before AI, if you made something, it was 
 
 With AI and remix culture, ownership is also more complicated. The original artwork still belongs to the creator. But when someone builds on that work and changes it using AI, something new is created very quickly. AI makes remixing faster and easier, which adds another layer to ownership. Now there can be three parts involved: the original owner, the AI system, and the person guiding it through prompts. Because of this, it becomes harder to clearly say who fully owns the final result.
 
+[Back to Weekly Reflections→](/reflections/reflections.md)
