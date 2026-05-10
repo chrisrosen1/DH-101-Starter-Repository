@@ -9,7 +9,9 @@ This artifact is a network visualization I created using Kumu. It maps the relat
 
 ## ⚙️ The Process
 How did you make this? I created a network map with Kumu showing the apps I use, the companies behind them, and the data connected to them. I placed myself at the center and connected the other nodes with labeled relationships. I organized the map so the apps appear around me and the companies and data are placed further out.
+
 What tools did you use? I used Kumu to build the network visualization and then took a screenshot of the map and added it to my GitHub site.
+
 What decisions did you make? I decided to place myself at the center to show how my activity connects the platforms. I grouped the apps around me and placed the companies and data further out so the structure of the network would be easier to understand. I also used colors and labels to distinguish between apps, companies, and data.
 
 ## 🧠 My Take
