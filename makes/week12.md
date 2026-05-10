@@ -5,7 +5,7 @@
 This infographic reveals the hidden environmental impact of AI by breaking down the energy and carbon costs behind systems like GPT-3. By using comparisons like flights and cars, it makes these abstract numbers more concrete and relatable.
 <img width="600" height="1500" alt="image" src="https://github.com/user-attachments/assets/56f31b45-038b-4117-8785-0e46355c751e" />
 
-## Process Notes
+## ⚙️ The Process
 How did you make this? I created this infographic using Canva. I researched data about AI’s environmental impact and selected key statistics to include. I focused on making the information clear by using simple layouts, icons, and comparisons like cars and flights.
 What tools did you use? I used Canva.
 What decisions did you make? I used Canva to create this infographic and started with a template. I did the research myself and chose which information and data to include. I decided what to focus on and how to present it in a clear way. I also made choices about how to display the information so it would be easy to understand.
