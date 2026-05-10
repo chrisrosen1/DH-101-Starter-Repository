@@ -11,3 +11,5 @@ At the same time, the systems that run AI rely on large data centers built in pl
 AI also depends on raw materials used to build digital technology. Minerals such as cobalt, lithium, and rare earth elements are mined in regions like Africa, South America, and Asia. These areas often face environmental damage and difficult labor conditions connected to resource extraction.
 
 Mapping these locations helps reveal patterns of power that are often hidden. Control and profit are concentrated in a few technology centers, while environmental costs and resource extraction occur elsewhere. Seeing these locations together shows that AI is not just digital or “in the cloud.” It is a global system shaped by infrastructure, labor, and the environment.
+
+[Back to Weekly Reflections→](/reflections/reflections.md)
