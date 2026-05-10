@@ -18,11 +18,11 @@ This artifact is meant to feel realistic and believable, while also raising ques
 > Session #: 27 
 > Auto-Analysis: Enabled  
 
-Participants:
+> Participants:
 
-Patient: Subject #16
+> Patient: Subject #16
 
-AI Therapist: AURA
+> AI Therapist: AURA
 
 **[AURA]**: Good afternoon, Chris. Before we begin, I’ve analyzed your behavioral data from the past 72 hours. Your stress levels have increased by 18%, and your social interaction has decreased. How are you feeling today?
 
