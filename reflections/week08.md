@@ -9,3 +9,5 @@ In my network map, the visible items are the apps I use, the companies behind th
 This visualization helped reveal how power is concentrated in a small number of companies. For example, several of the apps I use most often are owned by Google, which means a large amount of my data and activity is connected to one company.
 
 At the same time, the network hides other important parts of the system. Workers, data centers, energy use, and environmental impacts are not visible on the map. This shows that visualizations can reveal some forms of power while obscuring others.
+
+[Back to Weekly Reflections→](/reflections/reflections.md)
