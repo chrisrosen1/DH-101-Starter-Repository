@@ -1,7 +1,7 @@
 
 # The Environmental Cost of AI
 ## Energy, Carbon, and Invisible Infrastructure
-## The Artifact
+## 🎨 The Artifact
 This infographic reveals the hidden environmental impact of AI by breaking down the energy and carbon costs behind systems like GPT-3. By using comparisons like flights and cars, it makes these abstract numbers more concrete and relatable.
 <img width="600" height="1500" alt="image" src="https://github.com/user-attachments/assets/56f31b45-038b-4117-8785-0e46355c751e" />
 
