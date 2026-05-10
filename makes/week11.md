@@ -5,6 +5,10 @@
 This project is a digital zine created using Canva slides. It explores the hidden labor behind AI, focusing on the people who train and maintain these systems. The zine is organized into sections that explain the problem, the workers involved, the conditions they face, and who benefits from this labor. It combines short text, statistics, and images to make the topic clear and engaging. The goal of the project is to show that AI is not fully automatic and depends on human work that is often invisible.
 
 https://canva.link/c6g1s91ertd6alp
+![AI Labor Zine Preview](assets/images/ai-labor-preview.png)
+
+[📖 Read the Full Zine](https://www.canva.com/design/DAHGqoEhtxQ/9dhFDmFhSv8MYRXEvtXScg/view?utm_content=DAHGqoEhtxQ&utm_campaign=designshare&utm_medium=embeds&utm_source=link)
+
 <div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
