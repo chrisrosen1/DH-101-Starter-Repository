@@ -6,7 +6,7 @@ This map explores the geography of artificial intelligence by showing where AI d
 Argument
 This map argues that artificial intelligence depends on a global network of physical locations. While major technology companies that develop AI are concentrated in a few regions, the infrastructure and natural resources that support these systems are distributed across many parts of the world.
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1lbk5gG4c7nAMuStasCZQFb2TgvxvUdk&ehbc=2E312F" width="640" height="480"></iframe>
+[![Mapping AI Worlds](assets/images/ai-map.png)](https://www.google.com/maps/d/u/0/viewer?mid=1lbk5gG4c7nAMuStasCZQFb2TgvxvUdk)
 
 [Mapping AI Worlds – Interactive Map](https://www.google.com/maps/d/u/0/edit?mid=1lbk5gG4c7nAMuStasCZQFb2TgvxvUdk&ll=4.719762809064605%2C0&z=2)
 
