@@ -105,7 +105,7 @@ Transcript Start
 
 Session End
 
-## Process Notes
+## ⚙️ The Process
 How did you make this? I created this artifact in Google Docs and designed it to look like an official system document from the future. I focused on formatting it like a real session log, using clear sections, labels, and spacing to make it feel structured and professional.
 
 I chose a clean, simple font and kept the layout minimal so it looks like something from a digital system. I also added details like headings, lines, and organization to make it feel more realistic and believable as a confidential record.
