@@ -32,7 +32,7 @@ Overall, this course helped me understand that being human in the age of AI mean
 
 ## 🧠 What did I learn? 
 
-[Each clue led to a reflection. Explore them here →](reflections/reflections.md)
+[How my thinking about AI changed →](reflections/reflections.md)
 
 ## 🤖 AI Use Statement
 
