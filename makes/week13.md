@@ -21,6 +21,11 @@ Session #: 27<br>
 Auto-Analysis: Enabled
 </p>
 
+> **Confidential Record — Authorized Access Only**  
+> Date: April 18, 2040  
+> System Version: MindSync v5.2  
+> Auto-Analysis: Enabled  
+
 Participants:
 
 Patient: Subject #16
