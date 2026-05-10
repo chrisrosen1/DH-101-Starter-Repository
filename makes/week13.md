@@ -1,7 +1,7 @@
 
 # MindSync™
 ## A Therapy Session from 2040
-## The Artifact
+## 🎨 The Artifact
 My artifact is a fictional therapy session log from the year 2040, created as part of a system called MindSync™ Mental Health System. It is written as a confidential transcript between a human patient and an AI therapist named AURA.
 
 The document is formatted to look like a real system export, including details like the date, session number, system version, and an “auto-analysis” feature that tracks the user’s behavior. Throughout the transcript, the AI therapist references data such as increased stress levels and decreased social interaction, showing how advanced AI systems in the future might monitor and analyze human emotions.
