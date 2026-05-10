@@ -95,9 +95,10 @@ Session End
 
 ## ⚙️ The Process
 How did you make this? I created this artifact in Google Docs and designed it to look like an official system document from the future. I focused on formatting it like a real session log, using clear sections, labels, and spacing to make it feel structured and professional.
-
 I chose a clean, simple font and kept the layout minimal so it looks like something from a digital system. I also added details like headings, lines, and organization to make it feel more realistic and believable as a confidential record.
+
 What tools did you use? I used Google Docs.
+
 What decisions did you make? I wrote the script as a back-and-forth conversation between a patient and AI in the future. I created the document in Google Docs and formatted it to look like a future session log. I chose the layout, font, and spacing, and added details like the date, session number, and system information to make it look realistic for 2040.
 
 ## 🧠 My Take
