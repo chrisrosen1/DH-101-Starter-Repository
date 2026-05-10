@@ -121,8 +121,18 @@ I think this reveals that today, we already value convenience and efficiency a l
 
 Overall, I think the future of AI depends on how we use it. If we use it as a tool to support real human connection, it could be positive. But if it replaces real relationships, it could become harmful.
 
-## Attribution & AI Use
-- Tools used: Google Docs
-- AI prompts (summary): None
-- What AI generated: Nothing
-- What you changed or decided:I chose what to write about and the script. I chose the font and style of the document.
+## 🤖 AI & Attribution
+### Tools Used
+- Google Docs
+
+### What AI Generated
+- None
+
+### Human Decisions
+- Wrote the full transcript
+- Developed the fictional concept and system
+- Designed the document structure
+- Chose the formatting, layout, and visual style
+- Created the themes surrounding AI, surveillance, and human connection
+
+
