@@ -1,6 +1,6 @@
 ## Reflections
 
-You found the clues—now see what I learned from them.
+You found the clues—now see what I learned each week.
 
 - [Week 1 – Reverse Engineering](week01.md)
 - [Week 3 – AI Selfie](week03.md)
