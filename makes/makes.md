@@ -15,9 +15,4 @@ Welcome to the scavenger hunt. Each clue explores a different question about AI.
 - 🌱 [Clue 11: AI & Ecology. 🌱 The Cost of Intelligence](week12.md) – What is the environmental cost of AI? 
 - 🔮 [Clue 12: Futures of AI & Humanity. 🔮 Tomorrow, Simulated](week13.md) – What might our future with AI look like? 
 
-
-## 🧠 What did I learn?
-
-[Each clue led to a reflection. Explore them here →](../reflections/reflections.md)
-
 🏠 [Back to Home](https://chrisrosen1.github.io/DH-101-Starter-Repository/)
