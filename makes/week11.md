@@ -10,6 +10,55 @@ This project is a digital zine created using Canva slides. It explores the hidde
 
 ## 🖼️ Zine Slides
 
+### Page 1
+<img src="https://github.com/chrisrosen1/DH-101-Starter-Repository/raw/main/1.jpg" width="600">
+
+---
+
+### Page 2
+<img src="https://github.com/chrisrosen1/DH-101-Starter-Repository/raw/main/2.jpg" width="600">
+
+---
+
+### Page 3
+<img src="https://github.com/chrisrosen1/DH-101-Starter-Repository/raw/main/3.jpg" width="600">
+
+---
+
+### Page 4
+<img src="https://github.com/chrisrosen1/DH-101-Starter-Repository/raw/main/4.jpg" width="600">
+
+---
+
+### Page 5
+<img src="https://github.com/chrisrosen1/DH-101-Starter-Repository/raw/main/5.jpg" width="600">
+
+---
+
+### Page 6
+<img src="https://github.com/chrisrosen1/DH-101-Starter-Repository/raw/main/6.jpg" width="600">
+
+---
+
+### Page 7
+<img src="https://github.com/chrisrosen1/DH-101-Starter-Repository/raw/main/7.jpg" width="600">
+
+---
+
+### Page 8
+<img src="https://github.com/chrisrosen1/DH-101-Starter-Repository/raw/main/8.jpg" width="600">
+
+---
+
+### Page 9
+<img src="https://github.com/chrisrosen1/DH-101-Starter-Repository/raw/main/9.jpg" width="600">
+
+---
+
+### Page 10
+<img src="https://github.com/chrisrosen1/DH-101-Starter-Repository/raw/main/10.jpg" width="600">
+## 🖼️ Zine Slides
+
 ![Slide 1](https://github.com/chrisrosen1/DH-101-Starter-Repository/raw/main/1.jpg)
 ![Slide 2](https://github.com/chrisrosen1/DH-101-Starter-Repository/raw/main/2.jpg)
 
