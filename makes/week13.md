@@ -11,6 +11,16 @@ The conversation shows that even though AI therapy is easy and convenient, it ca
 This artifact is meant to feel realistic and believable, while also raising questions about the future of mental health care, human connection, and how much we rely on AI in our daily lives.
 
 <h2>MindSync™ Mental Health System</h2>
+<p><strong>Confidential Record – Authorized Access Only</strong></p>
+
+<p>
+Date: April 18, 2040<br>
+Session Type: AI-Assisted Therapy<br>
+System Version: MindSync v5.2<br>
+Session #: 27<br>
+Auto-Analysis: Enabled
+</p>
+
 MindSync™ Mental Health System
 
 Session Log Export
