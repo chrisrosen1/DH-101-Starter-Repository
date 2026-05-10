@@ -8,6 +8,8 @@ This project is a digital zine created using Canva slides. It explores the hidde
 
 [📖 Open the Digital Zine](https://canva.link/c6g1s91ertd6alp)
 
+https://github.com/chrisrosen1/DH-101-Starter-Repository/blob/main/The%20Hidden%20Labor%20Behind%20AI.mp4
+
 ## ⚙️ The Process
 How did you make this? I created this project as a digital zine using Canva. I first researched the topic using class readings and outside sources, then organized my ideas into sections like the problem, the people, and the conditions. After that, I drafted short text for each slide and focused on keeping the language clear and easy to understand. I used Canva to design the slides, choosing simple layouts and adding images to support the ideas.
 
