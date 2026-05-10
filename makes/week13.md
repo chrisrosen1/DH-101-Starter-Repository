@@ -1,5 +1,6 @@
-# Week 13 – Futures of AI & Humanity
 
+# MindSync™
+## A Therapy Session from 2040
 ## The Artifact
 My artifact is a fictional therapy session log from the year 2040, created as part of a system called MindSync™ Mental Health System. It is written as a confidential transcript between a human patient and an AI therapist named AURA.
 
