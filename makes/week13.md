@@ -11,8 +11,8 @@ The conversation shows that even though AI therapy is easy and convenient, it ca
 This artifact is meant to feel realistic and believable, while also raising questions about the future of mental health care, human connection, and how much we rely on AI in our daily lives.
 
 <h2>MindSync™ Mental Health System</h2>
-
-```> **Confidential Record — Authorized Access Only**  
+```
+> **Confidential Record — Authorized Access Only**  
 > Date: April 18, 2040  
 > System Version: MindSync v5.2
 > Session #: 27 
@@ -90,7 +90,8 @@ This artifact is meant to feel realistic and believable, while also raising ques
 
 **[AURA]**: That’s all I ask. I’ll see you next session, Chris.
 
-Session End ```
+Session End
+```
 
 ## ⚙️ The Process
 How did you make this? I created this artifact in Google Docs and designed it to look like an official system document from the future. I focused on formatting it like a real session log, using clear sections, labels, and spacing to make it feel structured and professional.
