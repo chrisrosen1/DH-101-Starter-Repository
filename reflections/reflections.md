@@ -10,18 +10,15 @@ These reflections document how my understanding of artificial intelligence evolv
 - [Week 4 – Comic and Storytelling](week04.md)
 - [Week 5 – GIF & Remix Culture](week05.md)
   
----
 ## Reading, Systems & Infrastructure
 - [Week 6 – Text & Distant Reading](week06.md)
 - [Week 7 – Mapping AI Worlds](week07.md)
 - [Week 8 – Networks of Knowledge & Power](week08.md)
   
----
 ## Interaction & Generative Systems
 - [Week 9 – Bots & Generators](week09.md)
 - [Week 10 – Games & Play](week10.md)
   
----
 ## Labor, Ecology & Humanity
 - [Week 11 – AI & Labor](week11.md)
 - [Week 12 – AI & Ecology](week12.md)
