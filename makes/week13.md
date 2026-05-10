@@ -135,4 +135,4 @@ Overall, I think the future of AI depends on how we use it. If we use it as a to
 - Chose the formatting, layout, and visual style
 - Created the themes surrounding AI, surveillance, and human connection
 
-
+🗂️ [Back to the Collection](makes.md)
