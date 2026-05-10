@@ -18,6 +18,7 @@ This artifact is meant to feel realistic and believable, while also raising ques
 > Session #: 27 
 > Auto-Analysis: Enabled  
 > Participants:
+> 
 > Patient: Subject #16
 > 
 > AI Therapist: AURA
