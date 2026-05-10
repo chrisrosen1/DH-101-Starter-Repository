@@ -112,7 +112,7 @@ I chose a clean, simple font and kept the layout minimal so it looks like someth
 What tools did you use? I used Google Docs.
 What decisions did you make? I wrote the script as a back-and-forth conversation between a patient and AI in the future. I created the document in Google Docs and formatted it to look like a future session log. I chose the layout, font, and spacing, and added details like the date, session number, and system information to make it look realistic for 2040.
 
-## Reflection
+## 🧠 My Take
 I imagine AI futures as somewhere in between utopian and dystopian. I don’t think it will be completely good or completely bad. Instead, it will probably make life easier in a lot of ways, but also create new problems that we don’t fully see yet.
 
 In my artifact, AI is helpful because it gives people easy access to support and guidance, especially for mental health. That could be a really positive thing, since not everyone has access to therapy today. But at the same time, it shows how people might start to rely on AI too much. The person in the transcript feels more comfortable talking to the AI than to real people, which leads to more isolation. That is where it starts to feel a little dystopian.
