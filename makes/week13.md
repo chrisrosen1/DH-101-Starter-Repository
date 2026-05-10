@@ -13,17 +13,10 @@ This artifact is meant to feel realistic and believable, while also raising ques
 <h2>MindSync™ Mental Health System</h2>
 <p><strong>Confidential Record – Authorized Access Only</strong></p>
 
-<p>
-Date: April 18, 2040<br>
-Session Type: AI-Assisted Therapy<br>
-System Version: MindSync v5.2<br>
-Session #: 27<br>
-Auto-Analysis: Enabled
-</p>
-
 > **Confidential Record — Authorized Access Only**  
 > Date: April 18, 2040  
-> System Version: MindSync v5.2  
+> System Version: MindSync v5.2
+> Session #: 27 
 > Auto-Analysis: Enabled  
 
 Participants:
