@@ -32,5 +32,5 @@ At the same time, this project made me more aware of how often I use it without 
 - Organized the information
 - Designed the structure and argument of the infographic
 
-
+🗂️ [Back to the Collection](makes.md)
 
