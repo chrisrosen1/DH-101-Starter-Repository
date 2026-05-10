@@ -16,7 +16,8 @@ This artifact is meant to feel realistic and believable, while also raising ques
 > Date: April 18, 2040  
 > System Version: MindSync v5.2
 > Session #: 27 
-> Auto-Analysis: Enabled  
+> Auto-Analysis: Enabled
+> 
 > Participants:
 > 
 > Patient: Subject #16
