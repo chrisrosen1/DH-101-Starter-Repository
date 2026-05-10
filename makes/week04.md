@@ -23,8 +23,11 @@ Comic Description (5–6 Panels)
 
 ## 🧠 My Take
 At first, I tried to create six separate images using DALL·E. Each time, the character looked different in every image. The program also had trouble placing the text bubbles correctly. The faces changed slightly, and the style was not consistent. This made it difficult to tell one clear story across all six panels.
+
 I also tried to build the comic in Canva, but that was challenging too. It was harder than I expected to match the images with the dialogue and keep everything aligned. The process felt frustrating because the tools were not giving me the exact result I imagined.
+
 In the end, I entered all six prompts into the ChatGPT image generator instead. The final project looked much closer to what I wanted. The character stayed consistent, and the text appeared more clearly in the panels.
+
 This experience showed me that there are many different AI tools, and each one works differently. If you want a specific result, you need to choose the right tool. I was surprised at how accurately ChatGPT was able to create what I described in my prompts. It made me realize that the outcome depends not just on AI, but on selecting the right system for the task and using the right prompts.
 
 ## 🤖 AI & Attribution
