@@ -21,16 +21,6 @@ Session #: 27<br>
 Auto-Analysis: Enabled
 </p>
 
-
-
-Session Type: AI-Assisted Therapy
-
-System Version: MindSync v5.2
-
-Session #: 27
-
-Auto-Analysis: Enabled  
-
 Participants:
 
 Patient: Subject #16
