@@ -7,7 +7,9 @@ This infographic reveals the hidden environmental impact of AI by breaking down 
 
 ## ⚙️ The Process
 How did you make this? I created this infographic using Canva. I researched data about AI’s environmental impact and selected key statistics to include. I focused on making the information clear by using simple layouts, icons, and comparisons like cars and flights.
+
 What tools did you use? I used Canva.
+
 What decisions did you make? I used Canva to create this infographic and started with a template. I did the research myself and chose which information and data to include. I decided what to focus on and how to present it in a clear way. I also made choices about how to display the information so it would be easy to understand.
 
 ## 🧠 My Take
