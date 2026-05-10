@@ -28,6 +28,7 @@ Patient: Subject #16
 AI Therapist: AURA
 
 Transcript Start
+<p><strong>[AURA]:</strong> Good afternoon, Chris. Before we begin, I’ve analyzed your behavioral data from the past 72 hours...</p>
 
 
 [AURA]: Good afternoon, Chris. Before we begin, I’ve analyzed your behavioral data from the past 72 hours. Your stress levels have increased by 18%, and your social interaction has decreased. How are you feeling today?
