@@ -31,5 +31,5 @@ This project helped me understand that AI often creates clean and flawless versi
 I wrote the prompts, decided how the person and setting would be described, selected the final images, and wrote the reflection.
 
 🗂️ [Back to the Collection](makes.md)
----
+
 
