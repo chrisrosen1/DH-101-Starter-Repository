@@ -90,7 +90,7 @@ This artifact is meant to feel realistic and believable, while also raising ques
 
 **[AURA]**: That’s all I ask. I’ll see you next session, Chris.
 
-Session End```
+Session End ```
 
 ## ⚙️ The Process
 How did you make this? I created this artifact in Google Docs and designed it to look like an official system document from the future. I focused on formatting it like a real session log, using clear sections, labels, and spacing to make it feel structured and professional.
