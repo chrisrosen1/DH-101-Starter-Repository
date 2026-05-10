@@ -57,26 +57,6 @@ This project is a digital zine created using Canva slides. It explores the hidde
 
 ### Page 10
 <img src="https://github.com/chrisrosen1/DH-101-Starter-Repository/raw/main/10.jpg" width="600">
-## 🖼️ Zine Slides
-
-![Slide 1](https://github.com/chrisrosen1/DH-101-Starter-Repository/raw/main/1.jpg)
-![Slide 2](https://github.com/chrisrosen1/DH-101-Starter-Repository/raw/main/2.jpg)
-
-![Slide 3](https://github.com/chrisrosen1/DH-101-Starter-Repository/raw/main/3.jpg)
-
-![Slide 4](https://github.com/chrisrosen1/DH-101-Starter-Repository/raw/main/4.jpg)
-
-![Slide 5](https://github.com/chrisrosen1/DH-101-Starter-Repository/raw/main/5.jpg)
-
-![Slide 6](https://github.com/chrisrosen1/DH-101-Starter-Repository/raw/main/6.jpg)
-
-![Slide 7](https://github.com/chrisrosen1/DH-101-Starter-Repository/raw/main/7.jpg)
-
-![Slide 8](https://github.com/chrisrosen1/DH-101-Starter-Repository/raw/main/8.jpg)
-
-![Slide 9](https://github.com/chrisrosen1/DH-101-Starter-Repository/raw/main/9.jpg)
-
-![Slide 10](https://github.com/chrisrosen1/DH-101-Starter-Repository/raw/main/10.jpg)
 
 ## ⚙️ The Process
 How did you make this? I created this project as a digital zine using Canva. I first researched the topic using class readings and outside sources, then organized my ideas into sections like the problem, the people, and the conditions. After that, I drafted short text for each slide and focused on keeping the language clear and easy to understand. I used Canva to design the slides, choosing simple layouts and adding images to support the ideas.
